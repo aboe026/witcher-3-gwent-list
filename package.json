@@ -1,0 +1,36 @@
+{
+  "name": "@aboe026/witcher-3-gwent-list",
+  "version": "0.1.0",
+  "author": {
+    "name": "Adam Boe",
+    "email": "adamboe@outlook.com"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "rimraf build",
+    "convert-xslx-to-json": "ts-node src/index.ts",
+    "lint": "eslint . && prettier --check .",
+    "lint-fix": "eslint --fix . && prettier --write .",
+    "start": "yarn convert-xslx-to-json"
+  },
+  "dependencies": {
+    "envalid": "8.0.0",
+    "xlsx": "0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "20.3.3",
+    "@typescript-eslint/eslint-plugin": "5.60.1",
+    "@typescript-eslint/parser": "5.60.1",
+    "eslint": "8.44.0",
+    "eslint-config-prettier": "8.8.0",
+    "eslint-plugin-prettier": "4.2.1",
+    "prettier": "2.8.8",
+    "rimraf": "5.0.1",
+    "ts-node": "10.9.1",
+    "typescript": "5.1.6"
+  },
+  "packageManager": "yarn@3.6.4"
+}
