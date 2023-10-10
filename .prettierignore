@@ -8,4 +8,5 @@ node_modules
 build
 tsconfig.tsbuildinfo
 
+~$cards.xlsx
 cards.json

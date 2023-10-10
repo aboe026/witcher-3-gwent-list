@@ -6,6 +6,8 @@
     ".vscode",
     ".yarn",
     "build",
+    "cards.xlsx",
+    "~$cards.xlsx",
     "cards.json",
     "node_modules",
     "tsconfig.tsbuildinfo"
