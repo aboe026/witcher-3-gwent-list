@@ -61,25 +61,21 @@
   },
   {
     "Name": "Foltest King of Temeria",
-    "Occurrences": 1,
     "Faction": "Northern Realms",
     "Type": "Leader"
   },
   {
     "Name": "Foltest Lord Commander of the North",
-    "Occurrences": 1,
     "Faction": "Northern Realms",
     "Type": "Leader"
   },
   {
     "Name": "Foltest the Siegemaster",
-    "Occurrences": 1,
     "Faction": "Northern Realms",
     "Type": "Leader"
   },
   {
     "Name": "Foltest the Steel-Forged",
-    "Occurrences": 1,
     "Faction": "Northern Realms",
     "Type": "Leader"
   },
@@ -274,25 +270,21 @@
   },
   {
     "Name": "Emhyr var Emreis Emporer of Nilfgaard",
-    "Occurrences": 1,
     "Faction": "Nilfgaardian Empire",
     "Type": "Leader"
   },
   {
     "Name": "Emhyr var Emreis His Imperial Majesty",
-    "Occurrences": 1,
     "Faction": "Nilfgaardian Empire",
     "Type": "Leader"
   },
   {
     "Name": "Emhyr var Emreis the Relentless",
-    "Occurrences": 1,
     "Faction": "Nilfgaardian Empire",
     "Type": "Leader"
   },
   {
     "Name": "Emhyr var Emreis the White Flame",
-    "Occurrences": 1,
     "Faction": "Nilfgaardian Empire",
     "Type": "Leader"
   },
@@ -580,25 +572,21 @@
   },
   {
     "Name": "Francesca Findabair Daisy of the Valley",
-    "Occurrences": 1,
     "Faction": "Scoia'tael",
     "Type": "Leader"
   },
   {
     "Name": "Francesca Findabair Pureblood Elf",
-    "Occurrences": 1,
     "Faction": "Scoia'tael",
     "Type": "Leader"
   },
   {
     "Name": "Francesca Findabair Queen of Dol Blathanna",
-    "Occurrences": 1,
     "Faction": "Scoia'tael",
     "Type": "Leader"
   },
   {
     "Name": "Francesca Findabair the Beautiful",
-    "Occurrences": 1,
     "Faction": "Scoia'tael",
     "Type": "Leader"
   },
@@ -814,25 +802,21 @@
   },
   {
     "Name": "Eredin Bringer of Death",
-    "Occurrences": 1,
     "Faction": "Monsters",
     "Type": "Leader"
   },
   {
     "Name": "Eredin Commander of the Red Riders",
-    "Occurrences": 1,
     "Faction": "Monsters",
     "Type": "Leader"
   },
   {
     "Name": "Eredin Destroyer of Worlds",
-    "Occurrences": 1,
     "Faction": "Monsters",
     "Type": "Leader"
   },
   {
     "Name": "Eredin King of the Wild Hunt",
-    "Occurrences": 1,
     "Faction": "Monsters",
     "Type": "Leader"
   },
@@ -1175,7 +1159,6 @@
   },
   {
     "Name": "Eredin Breacc Glas the Treacherous",
-    "Occurrences": 1,
     "Faction": "Monsters",
     "Type": "Leader",
     "DLC": "Hearts of Stone"
@@ -1237,21 +1220,18 @@
   },
   {
     "Name": "Emhyr var Emreis Invader of the North",
-    "Occurrences": 1,
     "Faction": "Nilfgaardian Empire",
     "Type": "Leader",
     "DLC": "Hearts of Stone"
   },
   {
     "Name": "Foltest son of Medell",
-    "Occurrences": 1,
     "Faction": "Northern Realms",
     "Type": "Leader",
     "DLC": "Hearts of Stone"
   },
   {
     "Name": "Francesca Findabair Hope of the Aen Seidhe",
-    "Occurrences": 1,
     "Faction": "Scoia'tael",
     "Type": "Leader",
     "DLC": "Hearts of Stone"
@@ -1367,7 +1347,6 @@
   },
   {
     "Name": "Crach an Craite",
-    "Occurrences": 1,
     "Faction": "Skellige",
     "Type": "Leader",
     "DLC": "Blood and Wine"
@@ -1431,7 +1410,6 @@
   },
   {
     "Name": "King Bran",
-    "Occurrences": 1,
     "Faction": "Skellige",
     "Type": "Leader",
     "DLC": "Blood and Wine"
