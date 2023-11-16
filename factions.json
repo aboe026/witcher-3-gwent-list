@@ -4,6 +4,9 @@
     "Ability": "Keeps random Unit Card out after each round."
   },
   {
+    "Name": "Neutral"
+  },
+  {
     "Name": "Nilfgaardian Empire",
     "Ability": "Wins any round that ends in a draw."
   },
