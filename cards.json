@@ -1,706 +1,11 @@
 [
   {
-    "Name": "Ballista",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 6
-  },
-  {
-    "Name": "Blue Stripes Commando",
-    "Occurrences": 3,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 4,
-    "Effect 1": "Bond"
-  },
-  {
-    "Name": "Catapult",
-    "Occurrences": 2,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 8,
-    "Effect 1": "Bond"
-  },
-  {
-    "Name": "Crinfrid Reavers Dragon Hunter",
-    "Occurrences": 3,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 5,
-    "Effect 1": "Bond"
-  },
-  {
-    "Name": "Dethmold",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 6
-  },
-  {
-    "Name": "Dun Banner Medic",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 5,
-    "Effect 1": "Medic"
-  },
-  {
-    "Name": "Esterad Thyssen",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 10
-  },
-  {
-    "Name": "Foltest King of Temeria",
-    "Faction": "Northern Realms",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Foltest Lord Commander of the North",
-    "Faction": "Northern Realms",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Foltest the Siegemaster",
-    "Faction": "Northern Realms",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Foltest the Steel-Forged",
-    "Faction": "Northern Realms",
-    "Type": "Leader"
-  },
-  {
-    "Name": "John Natalis",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 10
-  },
-  {
-    "Name": "Kaedweni Siege Expert",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 1,
-    "Effect 1": "Morale"
-  },
-  {
-    "Name": "Keira Metz",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 5
-  },
-  {
-    "Name": "Phillippa Eilhart",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Hero",
-    "Combat 1": "Ranged",
-    "Strength": 10
-  },
-  {
-    "Name": "Poor Fucking Infantry",
-    "Occurrences": 3,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 1,
-    "Effect 1": "Bond"
-  },
-  {
-    "Name": "Prince Stennis",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5,
-    "Effect 1": "Spy"
-  },
-  {
-    "Name": "Redanian Foot Soldier",
-    "Occurrences": 2,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 1
-  },
-  {
-    "Name": "Sabrina Glevissig",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 4
-  },
-  {
-    "Name": "Sheldon Skaggs",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 4
-  },
-  {
-    "Name": "Siege Tower",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 6
-  },
-  {
-    "Name": "Siegfried of Denesle",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5
-  },
-  {
-    "Name": "Sigismund Djikstra",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 4,
-    "Effect 1": "Spy"
-  },
-  {
-    "Name": "Sile de Tansarville",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 4
-  },
-  {
-    "Name": "Thaler",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 1,
-    "Effect 1": "Spy"
-  },
-  {
-    "Name": "Trebuchet",
-    "Occurrences": 2,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 6
-  },
-  {
-    "Name": "Vernon Roche",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 10
-  },
-  {
-    "Name": "Ves",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5
-  },
-  {
-    "Name": "Yarpen Zigrin",
-    "Occurrences": 1,
-    "Faction": "Northern Realms",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 2
-  },
-  {
     "Name": "Albrich",
     "Occurrences": 1,
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
     "Strength": 2
-  },
-  {
-    "Name": "Assire var Anahid",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 6
-  },
-  {
-    "Name": "Black Infantry Archer",
-    "Occurrences": 2,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 10
-  },
-  {
-    "Name": "Cahir Mawr Dyffryn aep Caellach",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 6
-  },
-  {
-    "Name": "Cynthia",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 4
-  },
-  {
-    "Name": "Emhyr var Emreis Emporer of Nilfgaard",
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Emhyr var Emreis His Imperial Majesty",
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Emhyr var Emreis the Relentless",
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Emhyr var Emreis the White Flame",
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Etolian Auxiliary Archers",
-    "Occurrences": 2,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 1,
-    "Effect 1": "Medic"
-  },
-  {
-    "Name": "Fringilla Vigo",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 6
-  },
-  {
-    "Name": "Heavy Zerrikanian Fire Scorpion",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 10
-  },
-  {
-    "Name": "Impera Brigade Guard",
-    "Occurrences": 4,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 3,
-    "Effect 1": "Bond"
-  },
-  {
-    "Name": "Letho of Gulet",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 10
-  },
-  {
-    "Name": "Manno Coehoom",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 10,
-    "Effect 1": "Medic"
-  },
-  {
-    "Name": "Morteisen",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 3
-  },
-  {
-    "Name": "Morvran Voorhis",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Hero",
-    "Combat 1": "Siege",
-    "Strength": 10
-  },
-  {
-    "Name": "Nausicaa Cavalry Rider",
-    "Occurrences": 3,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 2
-  },
-  {
-    "Name": "Puttkammer",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 3
-  },
-  {
-    "Name": "Rainfarn",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 4
-  },
-  {
-    "Name": "Renauld aep Matsen",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 5
-  },
-  {
-    "Name": "Rotten Mangonel",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 3
-  },
-  {
-    "Name": "Shilard Fitz-Oesterien",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 7,
-    "Effect 1": "Spy"
-  },
-  {
-    "Name": "Siege Engineer",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 6
-  },
-  {
-    "Name": "Siege Technician",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 0,
-    "Effect 1": "Medic"
-  },
-  {
-    "Name": "Stefan Skellen",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 9,
-    "Effect 1": "Spy"
-  },
-  {
-    "Name": "Sweers",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 2
-  },
-  {
-    "Name": "Tibor Eggebracht",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Hero",
-    "Combat 1": "Ranged",
-    "Strength": 10
-  },
-  {
-    "Name": "Vanhemar",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 4
-  },
-  {
-    "Name": "Vattier de Rideaux",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 4,
-    "Effect 1": "Spy"
-  },
-  {
-    "Name": "Vreemde",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 2
-  },
-  {
-    "Name": "Young Emissary",
-    "Occurrences": 2,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5,
-    "Effect 1": "Bond"
-  },
-  {
-    "Name": "Zerrikanian Fire Scorpion",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 5
-  },
-  {
-    "Name": "Barclay Els",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Combat 2": "Ranged",
-    "Strength": 6,
-    "Effect 1": "Agile"
-  },
-  {
-    "Name": "Ciaran aep Easnillien",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Combat 2": "Ranged",
-    "Strength": 3,
-    "Effect 1": "Agile"
-  },
-  {
-    "Name": "Dennis Cranmer",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 6
-  },
-  {
-    "Name": "Dol Blathanna Archer",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 4
-  },
-  {
-    "Name": "Dol Blathanna Scout",
-    "Occurrences": 3,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Combat 2": "Ranged",
-    "Strength": 6,
-    "Effect 1": "Agile"
-  },
-  {
-    "Name": "Dwarven Skirmisher",
-    "Occurrences": 3,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 3,
-    "Effect 1": "Muster"
-  },
-  {
-    "Name": "Eithne",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Hero",
-    "Combat 1": "Ranged",
-    "Strength": 10
-  },
-  {
-    "Name": "Elven Skirmisher",
-    "Occurrences": 3,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 2,
-    "Effect 1": "Muster"
-  },
-  {
-    "Name": "Filavandrel aen Fidhail",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Combat 2": "Ranged",
-    "Strength": 6,
-    "Effect 1": "Agile"
-  },
-  {
-    "Name": "Francesca Findabair Daisy of the Valley",
-    "Faction": "Scoia'tael",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Francesca Findabair Pureblood Elf",
-    "Faction": "Scoia'tael",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Francesca Findabair Queen of Dol Blathanna",
-    "Faction": "Scoia'tael",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Francesca Findabair the Beautiful",
-    "Faction": "Scoia'tael",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Havekar Healer",
-    "Occurrences": 3,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 0,
-    "Effect 1": "Medic"
-  },
-  {
-    "Name": "Havekar Smuggler",
-    "Occurrences": 3,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5,
-    "Effect 1": "Muster"
-  },
-  {
-    "Name": "Ida Emean aep Sivney",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 6
-  },
-  {
-    "Name": "Iorveth",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Hero",
-    "Combat 1": "Ranged",
-    "Strength": 10
-  },
-  {
-    "Name": "Isengrim Faolitarna",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 10,
-    "Effect 1": "Morale"
-  },
-  {
-    "Name": "Mahakaman Defender",
-    "Occurrences": 5,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5
-  },
-  {
-    "Name": "Milva",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 10,
-    "Effect 1": "Morale"
-  },
-  {
-    "Name": "Riordain",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 1
-  },
-  {
-    "Name": "Saesenthessis",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Hero",
-    "Combat 1": "Ranged",
-    "Strength": 10
-  },
-  {
-    "Name": "Toruviel",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 2
-  },
-  {
-    "Name": "Vrihedd Brigade Recruit",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 4
-  },
-  {
-    "Name": "Vrihedd Brigade Veteran",
-    "Occurrences": 2,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Combat 2": "Ranged",
-    "Strength": 5,
-    "Effect 1": "Agile"
-  },
-  {
-    "Name": "Yaevinn",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Combat 2": "Ranged",
-    "Strength": 6,
-    "Effect 1": "Agile"
   },
   {
     "Name": "Arachas",
@@ -721,299 +26,12 @@
     "Muster Prefix": "Arachas"
   },
   {
-    "Name": "Botchling",
+    "Name": "Assire var Anahid",
     "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 4
-  },
-  {
-    "Name": "Calaeno Harpy",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Combat 2": "Ranged",
-    "Strength": 2,
-    "Effect 1": "Agile"
-  },
-  {
-    "Name": "Cockatrice",
-    "Occurrences": 1,
-    "Faction": "Monsters",
+    "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 2
-  },
-  {
-    "Name": "Crone Brewess",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 6,
-    "Effect 1": "Muster",
-    "Muster Prefix": "Crone"
-  },
-  {
-    "Name": "Crone Weavess",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 6,
-    "Effect 1": "Muster",
-    "Muster Prefix": "Crone"
-  },
-  {
-    "Name": "Crone Whispess",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 6,
-    "Effect 1": "Muster",
-    "Muster Prefix": "Crone"
-  },
-  {
-    "Name": "Draug",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 10
-  },
-  {
-    "Name": "Earth Elemental",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Siege",
     "Strength": 6
-  },
-  {
-    "Name": "Endrega",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 2
-  },
-  {
-    "Name": "Eredin Bringer of Death",
-    "Faction": "Monsters",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Eredin Commander of the Red Riders",
-    "Faction": "Monsters",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Eredin Destroyer of Worlds",
-    "Faction": "Monsters",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Eredin King of the Wild Hunt",
-    "Faction": "Monsters",
-    "Type": "Leader"
-  },
-  {
-    "Name": "Fiend",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 6
-  },
-  {
-    "Name": "Fire Elemental",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 6
-  },
-  {
-    "Name": "Foglet",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 2
-  },
-  {
-    "Name": "Forktail",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5
-  },
-  {
-    "Name": "Frightener",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5
-  },
-  {
-    "Name": "Gargoyle",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 2
-  },
-  {
-    "Name": "Ghoul",
-    "Occurrences": 3,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 1,
-    "Effect 1": "Muster"
-  },
-  {
-    "Name": "Grave Hag",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 5
-  },
-  {
-    "Name": "Griffin",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5
-  },
-  {
-    "Name": "Harpy",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Combat 2": "Ranged",
-    "Strength": 2,
-    "Effect 1": "Agile"
-  },
-  {
-    "Name": "Ice Giant",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 5
-  },
-  {
-    "Name": "Imlerith",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 10
-  },
-  {
-    "Name": "Kayran",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Hero",
-    "Combat 1": "Ranged",
-    "Strength": 8,
-    "Effect 1": "Morale"
-  },
-  {
-    "Name": "Leshen",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Hero",
-    "Combat 1": "Ranged",
-    "Strength": 10
-  },
-  {
-    "Name": "Nekker",
-    "Occurrences": 3,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 2,
-    "Effect 1": "Muster"
-  },
-  {
-    "Name": "Plague Maiden",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5
-  },
-  {
-    "Name": "Vampire: Bruxa",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 4,
-    "Effect 1": "Muster",
-    "Muster Prefix": "Vampire:"
-  },
-  {
-    "Name": "Vampire: Ekimmara",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 4,
-    "Effect 1": "Muster"
-  },
-  {
-    "Name": "Vampire: Fleder",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 4,
-    "Effect 1": "Muster"
-  },
-  {
-    "Name": "Vampire: Garkain",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 4,
-    "Effect 1": "Muster"
-  },
-  {
-    "Name": "Vampire: Katakan",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5,
-    "Effect 1": "Muster"
-  },
-  {
-    "Name": "Werewolf",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5
-  },
-  {
-    "Name": "Wyvern",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 2
   },
   {
     "Name": "Avallac'h",
@@ -1025,228 +43,22 @@
     "Effect 1": "Spy"
   },
   {
-    "Name": "Biting Frost",
-    "Occurrences": 3,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Effect 1": "Weather"
-  },
-  {
-    "Name": "Cirilla Fiona Elen Rianno",
+    "Name": "Ballista",
     "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 15,
-    "Effect 1": "Muster",
-    "Muster Prefix": "Roach"
-  },
-  {
-    "Name": "Clear Weather",
-    "Occurrences": 2,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Effect 1": "Weather"
-  },
-  {
-    "Name": "Commander's Horn",
-    "Occurrences": 3,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Effect 1": "Horn"
-  },
-  {
-    "Name": "Dandelion",
-    "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 2,
-    "Effect 1": "Horn"
-  },
-  {
-    "Name": "Decoy",
-    "Occurrences": 3,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Effect 1": "Decoy"
-  },
-  {
-    "Name": "Emiel Regis Rohellec Terzieff",
-    "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5
-  },
-  {
-    "Name": "Geralt of Rivia",
-    "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 15,
-    "Effect 1": "Muster",
-    "Muster Prefix": "Roach"
-  },
-  {
-    "Name": "Impenetrable Fog",
-    "Occurrences": 3,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Effect 1": "Weather"
-  },
-  {
-    "Name": "Scorch",
-    "Occurrences": 3,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Effect 1": "Scorch"
-  },
-  {
-    "Name": "Torrential Rain",
-    "Occurrences": 2,
-    "Faction": "Neutral",
+    "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Effect 1": "Weather"
-  },
-  {
-    "Name": "Triss Merigold",
-    "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 7
-  },
-  {
-    "Name": "Vesemir",
-    "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Combat 1": "Close",
     "Strength": 6
   },
   {
-    "Name": "Villentretenmerth",
+    "Name": "Barclay Els",
     "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 7,
-    "Effect 1": "Scorch",
-    "Scorch Scope": "Close",
-    "Scorch Minimum Strength": 10
-  },
-  {
-    "Name": "Yennefer of Vangerberg",
-    "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Hero",
-    "Combat 1": "Ranged",
-    "Strength": 7,
-    "Effect 1": "Medic"
-  },
-  {
-    "Name": "Zoltan Chivay",
-    "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 5
-  },
-  {
-    "Name": "Eredin Breacc Glas the Treacherous",
-    "Faction": "Monsters",
-    "Type": "Leader",
-    "DLC": "Hearts of Stone"
-  },
-  {
-    "Name": "Toad",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 7,
-    "Effect 1": "Scorch",
-    "DLC": "Hearts of Stone",
-    "Scorch Scope": "Ranged",
-    "Scorch Minimum Strength": 10
-  },
-  {
-    "Name": "Cow",
-    "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 0,
-    "Effect 1": "Avenger",
-    "DLC": "Hearts of Stone"
-  },
-  {
-    "Name": "Gaunter O'Dimm",
-    "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 2,
-    "Effect 1": "Muster",
-    "DLC": "Hearts of Stone",
-    "Muster Prefix": "Gaunter O'Dimm Darkness"
-  },
-  {
-    "Name": "Gaunter O'Dimm Darkness",
-    "Occurrences": 3,
-    "Faction": "Neutral",
-    "Type": "Unit",
-    "Combat 1": "Ranged",
-    "Strength": 4,
-    "Effect 1": "Muster",
-    "DLC": "Hearts of Stone"
-  },
-  {
-    "Name": "Olgierd Von Everec",
-    "Occurrences": 1,
-    "Faction": "Neutral",
+    "Faction": "Scoia'tael",
     "Type": "Unit",
     "Combat 1": "Close",
     "Combat 2": "Ranged",
     "Strength": 6,
-    "Effect 1": "Agile",
-    "Effect 2": "Morale",
-    "DLC": "Hearts of Stone"
-  },
-  {
-    "Name": "Emhyr var Emreis Invader of the North",
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Leader",
-    "DLC": "Hearts of Stone"
-  },
-  {
-    "Name": "Foltest son of Medell",
-    "Faction": "Northern Realms",
-    "Type": "Leader",
-    "DLC": "Hearts of Stone"
-  },
-  {
-    "Name": "Francesca Findabair Hope of the Aen Seidhe",
-    "Faction": "Scoia'tael",
-    "Type": "Leader",
-    "DLC": "Hearts of Stone"
-  },
-  {
-    "Name": "Schirru",
-    "Occurrences": 1,
-    "Faction": "Scoia'tael",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 8,
-    "Effect 1": "Scorch",
-    "DLC": "Hearts of Stone",
-    "Scorch Scope": "Siege",
-    "Scorch Minimum Strength": 10
+    "Effect 1": "Agile"
   },
   {
     "Name": "Berserker",
@@ -1269,6 +81,31 @@
     "DLC": "Blood and Wine"
   },
   {
+    "Name": "Biting Frost",
+    "Occurrences": 3,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Effect 1": "Weather"
+  },
+  {
+    "Name": "Black Infantry Archer",
+    "Occurrences": 2,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 10
+  },
+  {
+    "Name": "Blue Stripes Commando",
+    "Occurrences": 3,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 4,
+    "Effect 1": "Bond"
+  },
+  {
     "Name": "Blueboy Lugos",
     "Occurrences": 1,
     "Faction": "Skellige",
@@ -1276,6 +113,41 @@
     "Combat 1": "Close",
     "Strength": 6,
     "DLC": "Blood and Wine"
+  },
+  {
+    "Name": "Botchling",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 4
+  },
+  {
+    "Name": "Cahir Mawr Dyffryn aep Caellach",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 6
+  },
+  {
+    "Name": "Calaeno Harpy",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Combat 2": "Ranged",
+    "Strength": 2,
+    "Effect 1": "Agile"
+  },
+  {
+    "Name": "Catapult",
+    "Occurrences": 2,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 8,
+    "Effect 1": "Bond"
   },
   {
     "Name": "Cerys",
@@ -1287,6 +159,26 @@
     "Effect 1": "Muster",
     "DLC": "Blood and Wine",
     "Muster Prefix": "Clan Drummond Shield Maiden"
+  },
+  {
+    "Name": "Ciaran aep Easnillien",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Combat 2": "Ranged",
+    "Strength": 3,
+    "Effect 1": "Agile"
+  },
+  {
+    "Name": "Cirilla Fiona Elen Rianno",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 15,
+    "Effect 1": "Muster",
+    "Muster Prefix": "Roach"
   },
   {
     "Name": "Clan an Craite Warrior",
@@ -1346,10 +238,140 @@
     "DLC": "Blood and Wine"
   },
   {
+    "Name": "Clear Weather",
+    "Occurrences": 2,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Effect 1": "Weather"
+  },
+  {
+    "Name": "Cockatrice",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 2
+  },
+  {
+    "Name": "Commander's Horn",
+    "Occurrences": 3,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Effect 1": "Horn"
+  },
+  {
+    "Name": "Cow",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 0,
+    "Effect 1": "Avenger",
+    "DLC": "Hearts of Stone"
+  },
+  {
     "Name": "Crach an Craite",
     "Faction": "Skellige",
     "Type": "Leader",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Ability": "Shuffle all cards from each player's graveyard back into their decks."
+  },
+  {
+    "Name": "Crinfrid Reavers Dragon Hunter",
+    "Occurrences": 3,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 5,
+    "Effect 1": "Bond"
+  },
+  {
+    "Name": "Crone Brewess",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 6,
+    "Effect 1": "Muster",
+    "Muster Prefix": "Crone"
+  },
+  {
+    "Name": "Crone Weavess",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 6,
+    "Effect 1": "Muster",
+    "Muster Prefix": "Crone"
+  },
+  {
+    "Name": "Crone Whispess",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 6,
+    "Effect 1": "Muster",
+    "Muster Prefix": "Crone"
+  },
+  {
+    "Name": "Cynthia",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 4
+  },
+  {
+    "Name": "Dandelion",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 2,
+    "Effect 1": "Horn"
+  },
+  {
+    "Name": "Decoy",
+    "Occurrences": 3,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Effect 1": "Decoy"
+  },
+  {
+    "Name": "Dennis Cranmer",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 6
+  },
+  {
+    "Name": "Dethmold",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 6
+  },
+  {
+    "Name": "Dol Blathanna Archer",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 4
+  },
+  {
+    "Name": "Dol Blathanna Scout",
+    "Occurrences": 3,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Combat 2": "Ranged",
+    "Strength": 6,
+    "Effect 1": "Agile"
   },
   {
     "Name": "Donar an Hindar",
@@ -1371,6 +393,135 @@
     "DLC": "Blood and Wine"
   },
   {
+    "Name": "Draug",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 10
+  },
+  {
+    "Name": "Dun Banner Medic",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 5,
+    "Effect 1": "Medic"
+  },
+  {
+    "Name": "Dwarven Skirmisher",
+    "Occurrences": 3,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 3,
+    "Effect 1": "Muster"
+  },
+  {
+    "Name": "Earth Elemental",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 6
+  },
+  {
+    "Name": "Eithne",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Hero",
+    "Combat 1": "Ranged",
+    "Strength": 10
+  },
+  {
+    "Name": "Elven Skirmisher",
+    "Occurrences": 3,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 2,
+    "Effect 1": "Muster"
+  },
+  {
+    "Name": "Emhyr var Emreis Emporer of Nilfgaard",
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Leader",
+    "Ability": "Look at 3 random cards from your opponent's hand."
+  },
+  {
+    "Name": "Emhyr var Emreis His Imperial Majesty",
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Leader",
+    "Ability": "Pick a Torrential Rain card from your deck and play it instantly."
+  },
+  {
+    "Name": "Emhyr var Emreis Invader of the North",
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Leader",
+    "DLC": "Hearts of Stone",
+    "Ability": "Abilities that restore a unit to the battlefield restore a randomly-chosen unit. Affects both players."
+  },
+  {
+    "Name": "Emhyr var Emreis the Relentless",
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Leader",
+    "Ability": "Draw a card from your opponent's discard pile."
+  },
+  {
+    "Name": "Emhyr var Emreis the White Flame",
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Leader",
+    "Ability": "Cancel your opponent's Leader Ability."
+  },
+  {
+    "Name": "Emiel Regis Rohellec Terzieff",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5
+  },
+  {
+    "Name": "Endrega",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 2
+  },
+  {
+    "Name": "Eredin Breacc Glas the Treacherous",
+    "Faction": "Monsters",
+    "Type": "Leader",
+    "DLC": "Hearts of Stone",
+    "Ability": "Doubles the strength of all spy cards (affects both players)."
+  },
+  {
+    "Name": "Eredin Bringer of Death",
+    "Faction": "Monsters",
+    "Type": "Leader",
+    "Ability": "Restore a card from your discard pile to your hand."
+  },
+  {
+    "Name": "Eredin Commander of the Red Riders",
+    "Faction": "Monsters",
+    "Type": "Leader",
+    "Ability": "Double the strength of all your Close Combat units (unless a Commander's horn is also present on that row)."
+  },
+  {
+    "Name": "Eredin Destroyer of Worlds",
+    "Faction": "Monsters",
+    "Type": "Leader",
+    "Ability": "Discard 2 card and draw 1 card of your choice from your deck."
+  },
+  {
+    "Name": "Eredin King of the Wild Hunt",
+    "Faction": "Monsters",
+    "Type": "Leader",
+    "Ability": "Pick any weather card from your deck and play it instantly."
+  },
+  {
     "Name": "Ermion",
     "Occurrences": 1,
     "Faction": "Skellige",
@@ -1379,6 +530,243 @@
     "Strength": 8,
     "Effect 1": "Mardroeme",
     "DLC": "Blood and Wine"
+  },
+  {
+    "Name": "Esterad Thyssen",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 10
+  },
+  {
+    "Name": "Etolian Auxiliary Archers",
+    "Occurrences": 2,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 1,
+    "Effect 1": "Medic"
+  },
+  {
+    "Name": "Fiend",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 6
+  },
+  {
+    "Name": "Filavandrel aen Fidhail",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Combat 2": "Ranged",
+    "Strength": 6,
+    "Effect 1": "Agile"
+  },
+  {
+    "Name": "Fire Elemental",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 6
+  },
+  {
+    "Name": "Foglet",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 2
+  },
+  {
+    "Name": "Foltest King of Temeria",
+    "Faction": "Northern Realms",
+    "Type": "Leader",
+    "Ability": "Pick an Impenetrable Fog card from your deck and play it instantly."
+  },
+  {
+    "Name": "Foltest Lord Commander of the North",
+    "Faction": "Northern Realms",
+    "Type": "Leader",
+    "Ability": "Clear any weather effects (resulting from Biting Frost, Torrential Rain or Impenetrable Fog cards) in play."
+  },
+  {
+    "Name": "Foltest Son of Medell",
+    "Faction": "Northern Realms",
+    "Type": "Leader",
+    "DLC": "Hearts of Stone",
+    "Ability": "Destroy your enemy's strongest Ranged Combat unit(s) if the combined strength of all his or her Ranged Combat units is 10 or more."
+  },
+  {
+    "Name": "Foltest the Siegemaster",
+    "Faction": "Northern Realms",
+    "Type": "Leader",
+    "Ability": "Doubles the strength of all your Siege units (unless a Commander's Horn is also present on that row)."
+  },
+  {
+    "Name": "Foltest the Steel-Forged",
+    "Faction": "Northern Realms",
+    "Type": "Leader",
+    "Ability": "Destroy your enemy's strongest Siege unit(s) if the combined strength of all his or her Siege units is 10 or more."
+  },
+  {
+    "Name": "Forktail",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5
+  },
+  {
+    "Name": "Francesca Findabair Daisy of the Valley",
+    "Faction": "Scoia'tael",
+    "Type": "Leader",
+    "Ability": "Draw an extra card at the beginning of the battle"
+  },
+  {
+    "Name": "Francesca Findabair Hope of the Aen Seidhe",
+    "Faction": "Scoia'tael",
+    "Type": "Leader",
+    "DLC": "Hearts of Stone",
+    "Ability": "Move agile units to whichever valid row maximizes their strength (don't move units already in optimal row)."
+  },
+  {
+    "Name": "Francesca Findabair Pureblood Elf",
+    "Faction": "Scoia'tael",
+    "Type": "Leader",
+    "Ability": "Pick a Biting Frost card from your deck and play it instantly."
+  },
+  {
+    "Name": "Francesca Findabair Queen of Dol Blathanna",
+    "Faction": "Scoia'tael",
+    "Type": "Leader",
+    "Ability": "Destroy your enemy's strongest Close Combat unit(s) if the combined strength of all his or her Close Combat units is 10 or more."
+  },
+  {
+    "Name": "Francesca Findabair the Beautiful",
+    "Faction": "Scoia'tael",
+    "Type": "Leader",
+    "Ability": "Doubles the strength of all your Ranged Combat units (unless a Commander's Horn is also present on that row)."
+  },
+  {
+    "Name": "Frightener",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5
+  },
+  {
+    "Name": "Fringilla Vigo",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 6
+  },
+  {
+    "Name": "Gargoyle",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 2
+  },
+  {
+    "Name": "Gaunter O'Dimm",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 2,
+    "Effect 1": "Muster",
+    "DLC": "Hearts of Stone",
+    "Muster Prefix": "Gaunter O'Dimm Darkness"
+  },
+  {
+    "Name": "Gaunter O'Dimm Darkness",
+    "Occurrences": 3,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 4,
+    "Effect 1": "Muster",
+    "DLC": "Hearts of Stone"
+  },
+  {
+    "Name": "Geralt of Rivia",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 15,
+    "Effect 1": "Muster",
+    "Muster Prefix": "Roach"
+  },
+  {
+    "Name": "Ghoul",
+    "Occurrences": 3,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 1,
+    "Effect 1": "Muster"
+  },
+  {
+    "Name": "Grave Hag",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 5
+  },
+  {
+    "Name": "Griffin",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5
+  },
+  {
+    "Name": "Harpy",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Combat 2": "Ranged",
+    "Strength": 2,
+    "Effect 1": "Agile"
+  },
+  {
+    "Name": "Havekar Healer",
+    "Occurrences": 3,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 0,
+    "Effect 1": "Medic"
+  },
+  {
+    "Name": "Havekar Smuggler",
+    "Occurrences": 3,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5,
+    "Effect 1": "Muster"
+  },
+  {
+    "Name": "Heavy Zerrikanian Fire Scorpion",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 10
   },
   {
     "Name": "Hjalmar",
@@ -1399,6 +787,81 @@
     "DLC": "Blood and Wine"
   },
   {
+    "Name": "Ice Giant",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 5
+  },
+  {
+    "Name": "Ida Emean aep Sivney",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 6
+  },
+  {
+    "Name": "Imlerith",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 10
+  },
+  {
+    "Name": "Impenetrable Fog",
+    "Occurrences": 3,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Effect 1": "Weather"
+  },
+  {
+    "Name": "Impera Brigade Guard",
+    "Occurrences": 4,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 3,
+    "Effect 1": "Bond"
+  },
+  {
+    "Name": "Iorveth",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Hero",
+    "Combat 1": "Ranged",
+    "Strength": 10
+  },
+  {
+    "Name": "Isengrim Faolitarna",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 10,
+    "Effect 1": "Morale"
+  },
+  {
+    "Name": "John Natalis",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 10
+  },
+  {
+    "Name": "Kaedweni Siege Expert",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 1,
+    "Effect 1": "Morale"
+  },
+  {
     "Name": "Kambi",
     "Occurrences": 1,
     "Faction": "Skellige",
@@ -1409,10 +872,44 @@
     "DLC": "Blood and Wine"
   },
   {
+    "Name": "Kayran",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Hero",
+    "Combat 1": "Ranged",
+    "Strength": 8,
+    "Effect 1": "Morale"
+  },
+  {
+    "Name": "Keira Metz",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 5
+  },
+  {
     "Name": "King Bran",
     "Faction": "Skellige",
     "Type": "Leader",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Ability": "Units only lose half their Strength in bad weather conditions."
+  },
+  {
+    "Name": "Leshen",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Hero",
+    "Combat 1": "Ranged",
+    "Strength": 10
+  },
+  {
+    "Name": "Letho of Gulet",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 10
   },
   {
     "Name": "Light Longship",
@@ -1434,12 +931,71 @@
     "DLC": "Blood and Wine"
   },
   {
+    "Name": "Mahakaman Defender",
+    "Occurrences": 5,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5
+  },
+  {
+    "Name": "Manno Coehoom",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 10,
+    "Effect 1": "Medic"
+  },
+  {
     "Name": "Mardroeme",
     "Occurrences": 3,
     "Faction": "Skellige",
     "Type": "Unit",
     "Effect 1": "Mardroeme",
     "DLC": "Blood and Wine"
+  },
+  {
+    "Name": "Milva",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 10,
+    "Effect 1": "Morale"
+  },
+  {
+    "Name": "Morteisen",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 3
+  },
+  {
+    "Name": "Morvran Voorhis",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Hero",
+    "Combat 1": "Siege",
+    "Strength": 10
+  },
+  {
+    "Name": "Nausicaa Cavalry Rider",
+    "Occurrences": 3,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 2
+  },
+  {
+    "Name": "Nekker",
+    "Occurrences": 3,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 2,
+    "Effect 1": "Muster"
   },
   {
     "Name": "Olaf",
@@ -1454,6 +1010,211 @@
     "DLC": "Blood and Wine"
   },
   {
+    "Name": "Olgierd Von Everec",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Combat 2": "Ranged",
+    "Strength": 6,
+    "Effect 1": "Agile",
+    "Effect 2": "Morale",
+    "DLC": "Hearts of Stone"
+  },
+  {
+    "Name": "Phillippa Eilhart",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Hero",
+    "Combat 1": "Ranged",
+    "Strength": 10
+  },
+  {
+    "Name": "Plague Maiden",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5
+  },
+  {
+    "Name": "Poor Fucking Infantry",
+    "Occurrences": 3,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 1,
+    "Effect 1": "Bond"
+  },
+  {
+    "Name": "Prince Stennis",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5,
+    "Effect 1": "Spy"
+  },
+  {
+    "Name": "Puttkammer",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 3
+  },
+  {
+    "Name": "Rainfarn",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 4
+  },
+  {
+    "Name": "Redanian Foot Soldier",
+    "Occurrences": 2,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 1
+  },
+  {
+    "Name": "Renauld aep Matsen",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 5
+  },
+  {
+    "Name": "Riordain",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 1
+  },
+  {
+    "Name": "Roach",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 3,
+    "DLC": "Gwent: The Witcher Card Game"
+  },
+  {
+    "Name": "Rotten Mangonel",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 3
+  },
+  {
+    "Name": "Sabrina Glevissig",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 4
+  },
+  {
+    "Name": "Saesenthessis",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Hero",
+    "Combat 1": "Ranged",
+    "Strength": 10
+  },
+  {
+    "Name": "Schirru",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 8,
+    "Effect 1": "Scorch",
+    "DLC": "Hearts of Stone",
+    "Scorch Scope": "Siege",
+    "Scorch Minimum Strength": 10
+  },
+  {
+    "Name": "Scorch",
+    "Occurrences": 3,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Effect 1": "Scorch"
+  },
+  {
+    "Name": "Sheldon Skaggs",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 4
+  },
+  {
+    "Name": "Shilard Fitz-Oesterien",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 7,
+    "Effect 1": "Spy"
+  },
+  {
+    "Name": "Siege Engineer",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 6
+  },
+  {
+    "Name": "Siege Technician",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 0,
+    "Effect 1": "Medic"
+  },
+  {
+    "Name": "Siege Tower",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 6
+  },
+  {
+    "Name": "Siegfried of Denesle",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5
+  },
+  {
+    "Name": "Sigismund Djikstra",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 4,
+    "Effect 1": "Spy"
+  },
+  {
+    "Name": "Sile de Tansarville",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 4
+  },
+  {
     "Name": "Skellige Storm",
     "Occurrences": 3,
     "Faction": "Neutral",
@@ -1462,6 +1223,15 @@
     "Combat 2": "Siege",
     "Effect 1": "Weather",
     "DLC": "Blood and Wine"
+  },
+  {
+    "Name": "Stefan Skellen",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 9,
+    "Effect 1": "Spy"
   },
   {
     "Name": "Svanrige",
@@ -1473,33 +1243,57 @@
     "DLC": "Blood and Wine"
   },
   {
-    "Name": "Udalryk",
+    "Name": "Sweers",
     "Occurrences": 1,
-    "Faction": "Skellige",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Strength": 4,
-    "DLC": "Blood and Wine"
-  },
-  {
-    "Name": "War Longship",
-    "Occurrences": 3,
-    "Faction": "Skellige",
-    "Type": "Unit",
-    "Combat 1": "Siege",
-    "Strength": 6,
-    "Effect 1": "Bond",
-    "DLC": "Blood and Wine"
-  },
-  {
-    "Name": "Young Berserker",
-    "Occurrences": 3,
-    "Faction": "Skellige",
+    "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 2,
-    "Effect 1": "Berserker",
-    "DLC": "Blood and Wine"
+    "Strength": 2
+  },
+  {
+    "Name": "Thaler",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 1,
+    "Effect 1": "Spy"
+  },
+  {
+    "Name": "Tibor Eggebracht",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Hero",
+    "Combat 1": "Ranged",
+    "Strength": 10
+  },
+  {
+    "Name": "Toad",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 7,
+    "Effect 1": "Scorch",
+    "DLC": "Hearts of Stone",
+    "Scorch Scope": "Ranged",
+    "Scorch Minimum Strength": 10
+  },
+  {
+    "Name": "Torrential Rain",
+    "Occurrences": 2,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Effect 1": "Weather"
+  },
+  {
+    "Name": "Toruviel",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 2
   },
   {
     "Name": "Transformed Vildkaarl",
@@ -1512,12 +1306,240 @@
     "DLC": "Blood and Wine"
   },
   {
-    "Name": "Roach",
+    "Name": "Trebuchet",
+    "Occurrences": 2,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 6
+  },
+  {
+    "Name": "Triss Merigold",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 7
+  },
+  {
+    "Name": "Udalryk",
+    "Occurrences": 1,
+    "Faction": "Skellige",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 4,
+    "DLC": "Blood and Wine"
+  },
+  {
+    "Name": "Vampire: Bruxa",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 4,
+    "Effect 1": "Muster",
+    "Muster Prefix": "Vampire:"
+  },
+  {
+    "Name": "Vampire: Ekimmara",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 4,
+    "Effect 1": "Muster"
+  },
+  {
+    "Name": "Vampire: Fleder",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 4,
+    "Effect 1": "Muster"
+  },
+  {
+    "Name": "Vampire: Garkain",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 4,
+    "Effect 1": "Muster"
+  },
+  {
+    "Name": "Vampire: Katakan",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5,
+    "Effect 1": "Muster"
+  },
+  {
+    "Name": "Vanhemar",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 4
+  },
+  {
+    "Name": "Vattier de Rideaux",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 4,
+    "Effect 1": "Spy"
+  },
+  {
+    "Name": "Vernon Roche",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 10
+  },
+  {
+    "Name": "Ves",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5
+  },
+  {
+    "Name": "Vesemir",
     "Occurrences": 1,
     "Faction": "Neutral",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 3,
-    "DLC": "Gwent: The Witcher Card Game"
+    "Strength": 6
+  },
+  {
+    "Name": "Villentretenmerth",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 7,
+    "Effect 1": "Scorch",
+    "Scorch Scope": "Close",
+    "Scorch Minimum Strength": 10
+  },
+  {
+    "Name": "Vreemde",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 2
+  },
+  {
+    "Name": "Vrihedd Brigade Recruit",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 4
+  },
+  {
+    "Name": "Vrihedd Brigade Veteran",
+    "Occurrences": 2,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Combat 2": "Ranged",
+    "Strength": 5,
+    "Effect 1": "Agile"
+  },
+  {
+    "Name": "War Longship",
+    "Occurrences": 3,
+    "Faction": "Skellige",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 6,
+    "Effect 1": "Bond",
+    "DLC": "Blood and Wine"
+  },
+  {
+    "Name": "Werewolf",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5
+  },
+  {
+    "Name": "Wyvern",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 2
+  },
+  {
+    "Name": "Yaevinn",
+    "Occurrences": 1,
+    "Faction": "Scoia'tael",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Combat 2": "Ranged",
+    "Strength": 6,
+    "Effect 1": "Agile"
+  },
+  {
+    "Name": "Yarpen Zigrin",
+    "Occurrences": 1,
+    "Faction": "Northern Realms",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 2
+  },
+  {
+    "Name": "Yennefer of Vangerberg",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Hero",
+    "Combat 1": "Ranged",
+    "Strength": 7,
+    "Effect 1": "Medic"
+  },
+  {
+    "Name": "Young Berserker",
+    "Occurrences": 3,
+    "Faction": "Skellige",
+    "Type": "Unit",
+    "Combat 1": "Ranged",
+    "Strength": 2,
+    "Effect 1": "Berserker",
+    "DLC": "Blood and Wine"
+  },
+  {
+    "Name": "Young Emissary",
+    "Occurrences": 2,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5,
+    "Effect 1": "Bond"
+  },
+  {
+    "Name": "Zerrikanian Fire Scorpion",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Unit",
+    "Combat 1": "Siege",
+    "Strength": 5
+  },
+  {
+    "Name": "Zoltan Chivay",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 5
   }
 ]
