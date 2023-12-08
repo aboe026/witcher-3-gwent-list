@@ -5,7 +5,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 2
+    "Strength": 2,
+    "Art Styles": 1,
+    "Quote": "A fireball? Of course. Whatever Your Imperial Majesty wishes."
   },
   {
     "Name": "Arachas",
@@ -13,7 +15,10 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 4
+    "Strength": 4,
+    "Effect 1": "Muster",
+    "Art Styles": 3,
+    "Quote": "Ugly – nature's way of saying 'Stay the fuck away.'"
   },
   {
     "Name": "Arachas Behemoth",
@@ -23,7 +28,9 @@
     "Combat 1": "Siege",
     "Strength": 6,
     "Effect 1": "Muster",
-    "Muster Prefix": "Arachas"
+    "Muster Prefix": "Arachas",
+    "Art Styles": 1,
+    "Quote": "Like a cross between a crab, a spider...and a ploughin' mountain"
   },
   {
     "Name": "Assire var Anahid",
@@ -31,16 +38,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 6
-  },
-  {
-    "Name": "Avallac'h",
-    "Occurrences": 1,
-    "Faction": "Neutral",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 0,
-    "Effect 1": "Spy"
+    "Strength": 6,
+    "Art Styles": 1,
+    "Quote": "Nilfgaardian mages do have a choice: servile submission, or the gallows."
   },
   {
     "Name": "Ballista",
@@ -48,7 +48,9 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 1,
+    "Quote": "Usually we give 'em female names.\" \"Like Jenny?\" \"More like Bertha."
   },
   {
     "Name": "Barclay Els",
@@ -58,7 +60,9 @@
     "Combat 1": "Close",
     "Combat 2": "Ranged",
     "Strength": 6,
-    "Effect 1": "Agile"
+    "Effect 1": "Agile",
+    "Art Styles": 1,
+    "Quote": "Our mead smells like piss, do it? Easy to fix – I'll break your fuckin' nose!"
   },
   {
     "Name": "Berserker",
@@ -68,7 +72,9 @@
     "Combat 1": "Close",
     "Strength": 4,
     "Effect 1": "Berserker",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Kill, crush, cleave!\""
   },
   {
     "Name": "Birna Bran",
@@ -78,7 +84,9 @@
     "Combat 1": "Close",
     "Strength": 2,
     "Effect 1": "Medic",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Skellige must have a strong king. No matter what it takes.\""
   },
   {
     "Name": "Biting Frost",
@@ -86,7 +94,9 @@
     "Faction": "Neutral",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Effect 1": "Weather"
+    "Effect 1": "Weather",
+    "Art Styles": 1,
+    "Quote": "Best part about frost – bodies of the fallen don't rot so quickly."
   },
   {
     "Name": "Black Infantry Archer",
@@ -94,7 +104,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 2,
+    "Quote": "I aim for the knee. Always."
   },
   {
     "Name": "Blue Stripes Commando",
@@ -103,7 +115,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 4,
-    "Effect 1": "Bond"
+    "Effect 1": "Bond",
+    "Art Styles": 3,
+    "Quote": "I'll do anything for Temeria. Mostly, though, I kill for her."
   },
   {
     "Name": "Blueboy Lugos",
@@ -112,7 +126,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 6,
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"I'm damn near ready to puke from boredom.\""
   },
   {
     "Name": "Botchling",
@@ -120,25 +136,31 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 4
+    "Strength": 4,
+    "Art Styles": 1,
+    "Quote": "Admit your mistakes and bury them proper - else they'll come back to haunt you."
   },
   {
-    "Name": "Cahir Mawr Dyffryn aep Caellach",
+    "Name": "Bovine Defense Force",
+    "Occurrences": 1,
+    "Deckable": "No",
+    "Faction": "Neutral",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 8,
+    "DLC": "Hearts of Stone",
+    "Art Styles": 1,
+    "Quote": "Grrrrr!"
+  },
+  {
+    "Name": "Cahir Mawr Dyffryn aep Ceallach",
     "Occurrences": 1,
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 6
-  },
-  {
-    "Name": "Calaeno Harpy",
-    "Occurrences": 1,
-    "Faction": "Monsters",
-    "Type": "Unit",
-    "Combat 1": "Close",
-    "Combat 2": "Ranged",
-    "Strength": 2,
-    "Effect 1": "Agile"
+    "Strength": 6,
+    "Art Styles": 1,
+    "Quote": "His eyes flashed under his winged helmet. Fire gleamed from his sword's blade."
   },
   {
     "Name": "Catapult",
@@ -147,7 +169,21 @@
     "Type": "Unit",
     "Combat 1": "Siege",
     "Strength": 8,
-    "Effect 1": "Bond"
+    "Effect 1": "Bond",
+    "Art Styles": 2,
+    "Quote": "The gods help those who have better catapults."
+  },
+  {
+    "Name": "Celaeno Harpy",
+    "Occurrences": 1,
+    "Faction": "Monsters",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Combat 2": "Ranged",
+    "Strength": 2,
+    "Effect 1": "Agile",
+    "Art Styles": 1,
+    "Quote": "Common harpies feed on carrion. Celaeno harpies... they feed on dreams."
   },
   {
     "Name": "Cerys",
@@ -158,7 +194,9 @@
     "Strength": 10,
     "Effect 1": "Muster",
     "DLC": "Blood and Wine",
-    "Muster Prefix": "Clan Drummond Shield Maiden"
+    "Muster Prefix": "Clan Drummond Shield Maiden",
+    "Art Styles": 1,
+    "Quote": "\"They call me Sparrowhawk, know why? Because I eat rats like you for breakfast.\""
   },
   {
     "Name": "Ciaran aep Easnillien",
@@ -168,17 +206,21 @@
     "Combat 1": "Close",
     "Combat 2": "Ranged",
     "Strength": 3,
-    "Effect 1": "Agile"
+    "Effect 1": "Agile",
+    "Art Styles": 1,
+    "Quote": "The path to freedom is paved in blood, not ink."
   },
   {
-    "Name": "Cirilla Fiona Elen Rianno",
+    "Name": "Cirilla Fiona Elen Riannon",
     "Occurrences": 1,
     "Faction": "Neutral",
     "Type": "Hero",
     "Combat 1": "Close",
     "Strength": 15,
     "Effect 1": "Muster",
-    "Muster Prefix": "Roach"
+    "Muster Prefix": "Roach",
+    "Art Styles": 2,
+    "Quote": "Know when fairy tales cease to be tales? When people start believing in them."
   },
   {
     "Name": "Clan an Craite Warrior",
@@ -188,7 +230,9 @@
     "Combat 1": "Close",
     "Strength": 6,
     "Effect 1": "Bond",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"I'll bring the an Craites such glory, bards'll go hoarse singin' me praises!\""
   },
   {
     "Name": "Clan Brokvar Archer",
@@ -197,17 +241,21 @@
     "Type": "Unit",
     "Combat 1": "Ranged",
     "Strength": 6,
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"So ye can hit a movin' target at two hundred paces. Me, too. In a storm.\""
   },
   {
-    "Name": "Clan Dimum Pirate",
+    "Name": "Clan Dimun Pirate",
     "Occurrences": 1,
     "Faction": "Skellige",
     "Type": "Unit",
     "Combat 1": "Ranged",
     "Strength": 6,
     "Effect 1": "Scorch",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Can see the fear in their eyes. Fear o' me… fear o' Clan Dimun!\""
   },
   {
     "Name": "Clan Drummond Shield Maiden",
@@ -217,7 +265,9 @@
     "Combat 1": "Close",
     "Strength": 4,
     "Effect 1": "Bond",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 3,
+    "Quote": "\"They'll shatter on our shields like waves on a rocky shore.\""
   },
   {
     "Name": "Clan Heymaey Skald",
@@ -226,7 +276,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 4,
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"The deeds of Clan Heymaey will go down in history.\""
   },
   {
     "Name": "Clan Tordarroch Armorsmith",
@@ -235,14 +287,18 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 4,
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Ye're in for a poundin'.\""
   },
   {
     "Name": "Clear Weather",
     "Occurrences": 2,
     "Faction": "Neutral",
     "Type": "Unit",
-    "Effect 1": "Weather"
+    "Effect 1": "Weather",
+    "Art Styles": 1,
+    "Quote": "The sun's shinin', Dromle! The sun's shinin'! Maybe there's hope left after all…"
   },
   {
     "Name": "Cockatrice",
@@ -250,14 +306,18 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 2
+    "Strength": 2,
+    "Art Styles": 1,
+    "Quote": "Born of an egg laid by a cockerel... if you believe such peasant drivel."
   },
   {
     "Name": "Commander's Horn",
     "Occurrences": 3,
     "Faction": "Neutral",
     "Type": "Unit",
-    "Effect 1": "Horn"
+    "Effect 1": "Horn",
+    "Art Styles": 1,
+    "Quote": "Plus one to morale, minus three to hearing."
   },
   {
     "Name": "Cow",
@@ -267,13 +327,16 @@
     "Combat 1": "Ranged",
     "Strength": 0,
     "Effect 1": "Avenger",
-    "DLC": "Hearts of Stone"
+    "DLC": "Hearts of Stone",
+    "Art Styles": 1,
+    "Quote": "Mooo!"
   },
   {
     "Name": "Crach an Craite",
     "Faction": "Skellige",
     "Type": "Leader",
     "DLC": "Blood and Wine",
+    "Art Styles": 1,
     "Ability": "Shuffle all cards from each player's graveyard back into their decks.",
     "Quote": "A king's gotta be wise. A king's gotta command respect. A king's gotta have stones."
   },
@@ -284,7 +347,9 @@
     "Type": "Unit",
     "Combat 1": "Ranged",
     "Strength": 5,
-    "Effect 1": "Bond"
+    "Effect 1": "Bond",
+    "Art Styles": 3,
+    "Quote": "Haven't had much luck with monsters of late, so we enlisted."
   },
   {
     "Name": "Crone Brewess",
@@ -294,7 +359,9 @@
     "Combat 1": "Close",
     "Strength": 6,
     "Effect 1": "Muster",
-    "Muster Prefix": "Crone"
+    "Muster Prefix": "Crone",
+    "Art Styles": 1,
+    "Quote": "We'll cut you up, boy. A fine broth you will make."
   },
   {
     "Name": "Crone Weavess",
@@ -304,7 +371,9 @@
     "Combat 1": "Close",
     "Strength": 6,
     "Effect 1": "Muster",
-    "Muster Prefix": "Crone"
+    "Muster Prefix": "Crone",
+    "Art Styles": 1,
+    "Quote": "I sense your pain. I see your fear…"
   },
   {
     "Name": "Crone Whispess",
@@ -314,7 +383,9 @@
     "Combat 1": "Close",
     "Strength": 6,
     "Effect 1": "Muster",
-    "Muster Prefix": "Crone"
+    "Muster Prefix": "Crone",
+    "Art Styles": 1,
+    "Quote": "I'd be your best - and last."
   },
   {
     "Name": "Cynthia",
@@ -322,7 +393,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 4
+    "Strength": 4,
+    "Art Styles": 1,
+    "Quote": "Cynthia's talents can be deadly. She needs a tight leash."
   },
   {
     "Name": "Dandelion",
@@ -331,14 +404,18 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 2,
-    "Effect 1": "Horn"
+    "Effect 1": "Horn",
+    "Art Styles": 2,
+    "Quote": "Dandelion, you're a cynic, a lecher, a whoremonger, a liar – and my best friend."
   },
   {
     "Name": "Decoy",
     "Occurrences": 3,
     "Faction": "Neutral",
     "Type": "Unit",
-    "Effect 1": "Decoy"
+    "Effect 1": "Decoy",
+    "Art Styles": 1,
+    "Quote": "When you run out of peasants, decoys also make decent arrow fodder."
   },
   {
     "Name": "Dennis Cranmer",
@@ -346,7 +423,9 @@
     "Faction": "Scoia'tael",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 1,
+    "Quote": "I know how to carry out orders, so you can shove you advice up your coal chute."
   },
   {
     "Name": "Dethmold",
@@ -354,7 +433,9 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 1,
+    "Quote": "I once made a prisoner vomit his own entrails... Ah, good times…"
   },
   {
     "Name": "Dol Blathanna Archer",
@@ -362,7 +443,9 @@
     "Faction": "Scoia'tael",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 4
+    "Strength": 4,
+    "Art Styles": 1,
+    "Quote": "Take another step, dh'oine. You'd look better with an arrow between your eyes."
   },
   {
     "Name": "Dol Blathanna Scout",
@@ -372,7 +455,9 @@
     "Combat 1": "Close",
     "Combat 2": "Ranged",
     "Strength": 6,
-    "Effect 1": "Agile"
+    "Effect 1": "Agile",
+    "Art Styles": 3,
+    "Quote": "They track like hounds, run like deer and kill like cold-hearted bastards."
   },
   {
     "Name": "Donar an Hindar",
@@ -381,7 +466,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 4,
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"I've gathered all the jarls together. Now make your case.\""
   },
   {
     "Name": "Draig Bon-Dhu",
@@ -391,7 +478,9 @@
     "Combat 1": "Siege",
     "Strength": 2,
     "Effect 1": "Horn",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Hear ye now the tale of the heroic deeds of Clan an Craite.\""
   },
   {
     "Name": "Draug",
@@ -399,7 +488,9 @@
     "Faction": "Monsters",
     "Type": "Hero",
     "Combat 1": "Close",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "Some men cannot admit defeat. Some keep fighting from beyond the grave."
   },
   {
     "Name": "Dun Banner Medic",
@@ -408,7 +499,9 @@
     "Type": "Unit",
     "Combat 1": "Siege",
     "Strength": 5,
-    "Effect 1": "Medic"
+    "Effect 1": "Medic",
+    "Art Styles": 1,
+    "Quote": "Stitch red to red, white to white, and everything will be all right"
   },
   {
     "Name": "Dwarven Skirmisher",
@@ -417,7 +510,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 3,
-    "Effect 1": "Muster"
+    "Effect 1": "Muster",
+    "Art Styles": 3,
+    "Quote": "Worked a pickaxe all me life. Battleaxe won't be any trouble."
   },
   {
     "Name": "Earth Elemental",
@@ -425,7 +520,9 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 1,
+    "Quote": "How to fight an earth elemental? You don't. You run. Fast as you can."
   },
   {
     "Name": "Eithne",
@@ -433,7 +530,9 @@
     "Faction": "Scoia'tael",
     "Type": "Hero",
     "Combat 1": "Ranged",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "\"The dryad queen has eyes of molten silver, and a heart of cold-forged steel.\""
   },
   {
     "Name": "Elven Skirmisher",
@@ -442,12 +541,15 @@
     "Type": "Unit",
     "Combat 1": "Ranged",
     "Strength": 2,
-    "Effect 1": "Muster"
+    "Effect 1": "Muster",
+    "Art Styles": 3,
+    "Quote": "No matter what you may have heard, elves don't take human scalps. Too much lice."
   },
   {
     "Name": "Emhyr var Emreis Emperor of Nilfgaard",
     "Faction": "Nilfgaardian Empire",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Look at 3 random cards from your opponent's hand.",
     "Quote": "Your motives do not interest me. Only results."
   },
@@ -455,6 +557,7 @@
     "Name": "Emhyr var Emreis His Imperial Majesty",
     "Faction": "Nilfgaardian Empire",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Pick a Torrential Rain card from your deck and play it instantly.",
     "Quote": "The skies wept when my Pavetta died. They will not weep for me."
   },
@@ -463,6 +566,7 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Leader",
     "DLC": "Hearts of Stone",
+    "Art Styles": 1,
     "Ability": "Abilities that restore a unit to the battlefield restore a randomly-chosen unit. Affects both players.",
     "Quote": "Emperors command magnitudes, yet cannot control two things: their time and their hearts."
   },
@@ -470,6 +574,7 @@
     "Name": "Emhyr var Emreis the Relentless",
     "Faction": "Nilfgaardian Empire",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Draw a card from your opponent's discard pile.",
     "Quote": "They do not call me the Patient. Take care they do not call you the Headless."
   },
@@ -477,8 +582,9 @@
     "Name": "Emhyr var Emreis the White Flame",
     "Faction": "Nilfgaardian Empire",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Cancel your opponent's Leader Ability.",
-    "Quote": "A sword is but on eof many tools at a rules's disposal."
+    "Quote": "A sword is but one of many tools at a rules's disposal."
   },
   {
     "Name": "Emiel Regis Rohellec Terzieff",
@@ -486,7 +592,9 @@
     "Faction": "Neutral",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 2,
+    "Quote": "Men, the polite ones, at least, call me a monster. A blood-drinking freak."
   },
   {
     "Name": "Endrega",
@@ -494,13 +602,16 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 2
+    "Strength": 2,
+    "Art Styles": 1,
+    "Quote": "The nest! Take out the nest, or the bastards'll just keep coming!"
   },
   {
     "Name": "Eredin Breacc Glas the Treacherous",
     "Faction": "Monsters",
     "Type": "Leader",
     "DLC": "Hearts of Stone",
+    "Art Styles": 1,
     "Ability": "Doubles the strength of all spy cards (affects both players).",
     "Quote": "I'm enjoying this. You are my toy."
   },
@@ -508,6 +619,7 @@
     "Name": "Eredin Bringer of Death",
     "Faction": "Monsters",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Restore a card from your discard pile to your hand.",
     "Quote": "Go on. Show me your spins, pirouettes and feints. I want to watch."
   },
@@ -515,6 +627,7 @@
     "Name": "Eredin Commander of the Red Riders",
     "Faction": "Monsters",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Double the strength of all your Close Combat units (unless a Commander's horn is also present on that row).",
     "Quote": "Have some dignity. You know how this will end."
   },
@@ -522,6 +635,7 @@
     "Name": "Eredin Destroyer of Worlds",
     "Faction": "Monsters",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Discard 2 card and draw 1 card of your choice from your deck.",
     "Quote": "It is unavoidable."
   },
@@ -529,6 +643,7 @@
     "Name": "Eredin King of the Wild Hunt",
     "Faction": "Monsters",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Pick any weather card from your deck and play it instantly.",
     "Quote": "I've long awaited this…"
   },
@@ -540,7 +655,9 @@
     "Combat 1": "Ranged",
     "Strength": 8,
     "Effect 1": "Mardroeme",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Only the ignorant dismiss the importance of myths.\""
   },
   {
     "Name": "Esterad Thyssen",
@@ -548,7 +665,9 @@
     "Faction": "Northern Realms",
     "Type": "Hero",
     "Combat 1": "Close",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "Like all Thyssen men, he was tall, powefully built and criminally handsome."
   },
   {
     "Name": "Etolian Auxiliary Archers",
@@ -557,7 +676,9 @@
     "Type": "Unit",
     "Combat 1": "Ranged",
     "Strength": 1,
-    "Effect 1": "Medic"
+    "Effect 1": "Medic",
+    "Art Styles": 2,
+    "Quote": "Double or nothing, aim for his cock."
   },
   {
     "Name": "Fiend",
@@ -565,7 +686,9 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 1,
+    "Quote": "A fiend looks a bit like a deer. An enormous, evil deer."
   },
   {
     "Name": "Filavandrel aen Fidhail",
@@ -575,7 +698,9 @@
     "Combat 1": "Close",
     "Combat 2": "Ranged",
     "Strength": 6,
-    "Effect 1": "Agile"
+    "Effect 1": "Agile",
+    "Art Styles": 1,
+    "Quote": "Though we are now few and scattered, our hearts burn brighter than ever."
   },
   {
     "Name": "Fire Elemental",
@@ -583,7 +708,9 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 1,
+    "Quote": "Fire is so delightful."
   },
   {
     "Name": "Foglet",
@@ -591,12 +718,15 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 2
+    "Strength": 2,
+    "Art Styles": 1,
+    "Quote": "Fog creeps on little cat feet. Foglets creep over the bodies of their victims."
   },
   {
     "Name": "Foltest King of Temeria",
     "Faction": "Northern Realms",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Pick an Impenetrable Fog card from your deck and play it instantly.",
     "Quote": "It is natural and beautiful that a man should love his sister."
   },
@@ -604,6 +734,7 @@
     "Name": "Foltest Lord Commander of the North",
     "Faction": "Northern Realms",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Clear any weather effects (resulting from Biting Frost, Torrential Rain or Impenetrable Fog cards) in play.",
     "Quote": "Sod advisors and their schemes. I place my trust in my soldiers' blades."
   },
@@ -612,6 +743,7 @@
     "Faction": "Northern Realms",
     "Type": "Leader",
     "DLC": "Hearts of Stone",
+    "Art Styles": 1,
     "Ability": "Destroy your enemy's strongest Ranged Combat unit(s) if the combined strength of all his or her Ranged Combat units is 10 or more.",
     "Quote": "Dammit, I rule this land and I refuse to creep around its corners."
   },
@@ -619,6 +751,7 @@
     "Name": "Foltest the Siegemaster",
     "Faction": "Northern Realms",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Doubles the strength of all your Siege units (unless a Commander's Horn is also present on that row).",
     "Quote": "A well-aimed ballista razes not just the enemy's walls, but his morale as well."
   },
@@ -626,6 +759,7 @@
     "Name": "Foltest the Steel-Forged",
     "Faction": "Northern Realms",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Destroy your enemy's strongest Siege unit(s) if the combined strength of all his or her Siege units is 10 or more.",
     "Quote": "A beautiful day for battle."
   },
@@ -635,12 +769,15 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "Fork tails... Bah! Fuckers' tails're more like cleavers."
   },
   {
     "Name": "Francesca Findabair Daisy of the Valley",
     "Faction": "Scoia'tael",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Draw an extra card at the beginning of the battle",
     "Quote": "The Elder Races have forgotten more than humans can ever hope to know."
   },
@@ -649,6 +786,7 @@
     "Faction": "Scoia'tael",
     "Type": "Leader",
     "DLC": "Hearts of Stone",
+    "Art Styles": 1,
     "Ability": "Move agile units to whichever valid row maximizes their strength (don't move units already in optimal row).",
     "Quote": "Daede sian caente, Aen Seidhe en'allane ael coeden…"
   },
@@ -656,6 +794,7 @@
     "Name": "Francesca Findabair Pureblood Elf",
     "Faction": "Scoia'tael",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Pick a Biting Frost card from your deck and play it instantly.",
     "Quote": "Ash shall fertilize the soil. By spring, the valley shall bloom once more."
   },
@@ -663,6 +802,7 @@
     "Name": "Francesca Findabair Queen of Dol Blathanna",
     "Faction": "Scoia'tael",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Destroy your enemy's strongest Close Combat unit(s) if the combined strength of all his or her Close Combat units is 10 or more.",
     "Quote": "To live in peace, we first must kill. This is human opression's cruel finale."
   },
@@ -670,6 +810,7 @@
     "Name": "Francesca Findabair the Beautiful",
     "Faction": "Scoia'tael",
     "Type": "Leader",
+    "Art Styles": 1,
     "Ability": "Doubles the strength of all your Ranged Combat units (unless a Commander's Horn is also present on that row).",
     "Quote": "Do not let my beauty distract your aim."
   },
@@ -679,7 +820,9 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "\"What have I done?\" the mage cried out, frightened of his own creation."
   },
   {
     "Name": "Fringilla Vigo",
@@ -687,7 +830,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 1,
+    "Quote": "Magic is the highest good. It transcends all borders and divisions."
   },
   {
     "Name": "Gargoyle",
@@ -695,7 +840,9 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 2
+    "Strength": 2,
+    "Art Styles": 1,
+    "Quote": "Ancient sculptors' nightmarish fantasies, brought to life by bored mages."
   },
   {
     "Name": "Gaunter O'Dimm",
@@ -706,7 +853,9 @@
     "Strength": 2,
     "Effect 1": "Muster",
     "DLC": "Hearts of Stone",
-    "Muster Prefix": "Gaunter O'Dimm Darkness"
+    "Muster Prefix": "Gaunter O'Dimm Darkness",
+    "Art Styles": 1,
+    "Quote": "He always grants exactly what you wish for. That's the problem."
   },
   {
     "Name": "Gaunter O'Dimm Darkness",
@@ -716,7 +865,9 @@
     "Combat 1": "Ranged",
     "Strength": 4,
     "Effect 1": "Muster",
-    "DLC": "Hearts of Stone"
+    "DLC": "Hearts of Stone",
+    "Art Styles": 1,
+    "Quote": "Fear not the shadows, but the light."
   },
   {
     "Name": "Geralt of Rivia",
@@ -726,7 +877,9 @@
     "Combat 1": "Close",
     "Strength": 15,
     "Effect 1": "Muster",
-    "Muster Prefix": "Roach"
+    "Muster Prefix": "Roach",
+    "Art Styles": 2,
+    "Quote": "If that's what it takes to save the world, it's better to let that world die."
   },
   {
     "Name": "Ghoul",
@@ -735,7 +888,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 1,
-    "Effect 1": "Muster"
+    "Effect 1": "Muster",
+    "Art Styles": 3,
+    "Quote": "If ghouls are part of the Circle of Life... then it's a damn vicious circle."
   },
   {
     "Name": "Grave Hag",
@@ -743,7 +898,9 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "Their long tongues're for slurping marrow - and whipping prep."
   },
   {
     "Name": "Griffin",
@@ -751,7 +908,9 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "Griffins like to toy with their prey. Eat 'em alive, piece by piece."
   },
   {
     "Name": "Harpy",
@@ -761,7 +920,9 @@
     "Combat 1": "Close",
     "Combat 2": "Ranged",
     "Strength": 2,
-    "Effect 1": "Agile"
+    "Effect 1": "Agile",
+    "Art Styles": 1,
+    "Quote": "There are many species of harpy, and all are kleptomaniacs."
   },
   {
     "Name": "Havekar Healer",
@@ -770,7 +931,9 @@
     "Type": "Unit",
     "Combat 1": "Ranged",
     "Strength": 0,
-    "Effect 1": "Medic"
+    "Effect 1": "Medic",
+    "Art Styles": 3,
+    "Quote": "Sure, I'll patch you up. Gonna cost you, though."
   },
   {
     "Name": "Havekar Smuggler",
@@ -779,7 +942,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 5,
-    "Effect 1": "Muster"
+    "Effect 1": "Muster",
+    "Art Styles": 3,
+    "Quote": "I fight for whoever's paying the best. Or whoever's easiest to rob."
   },
   {
     "Name": "Heavy Zerrikanian Fire Scorpion",
@@ -787,7 +952,20 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "Not the best for taking cities, but great for razing them to the ground."
+  },
+  {
+    "Name": "Hemdall",
+    "Occurrences": 1,
+    "Faction": "Skellige",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 11,
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"When the time of the White Frost comes, Hemdall will sound the call for battle.\""
   },
   {
     "Name": "Hjalmar",
@@ -796,7 +974,9 @@
     "Type": "Hero",
     "Combat 1": "Ranged",
     "Strength": 10,
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Instead of mournin' the fallen, let's drink to their memory!\""
   },
   {
     "Name": "Holger Blackhand",
@@ -805,7 +985,9 @@
     "Type": "Unit",
     "Combat 1": "Siege",
     "Strength": 4,
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Now let's drink to Emperor of Nilfgaard - may his prick forever stay limp!\""
   },
   {
     "Name": "Ice Giant",
@@ -813,7 +995,9 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "Fled one time in my life. From the Ice Giant. And I'm not a bit ashamed."
   },
   {
     "Name": "Ida Emean aep Sivney",
@@ -821,7 +1005,9 @@
     "Faction": "Scoia'tael",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 1,
+    "Quote": "I am a Sage. My power lies in possessing knowledge. Not sharing it."
   },
   {
     "Name": "Imlerith",
@@ -829,7 +1015,9 @@
     "Faction": "Monsters",
     "Type": "Hero",
     "Combat 1": "Close",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "Ladd nahw! Kill them! Litter the earth with their entrails!"
   },
   {
     "Name": "Impenetrable Fog",
@@ -837,7 +1025,9 @@
     "Faction": "Neutral",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Effect 1": "Weather"
+    "Effect 1": "Weather",
+    "Art Styles": 1,
+    "Quote": "A good commander's dream... a bad one's horror."
   },
   {
     "Name": "Impera Brigade Guard",
@@ -846,7 +1036,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 3,
-    "Effect 1": "Bond"
+    "Effect 1": "Bond",
+    "Art Styles": 4,
+    "Quote": "The Impera Brigade never surrenders. Ever."
   },
   {
     "Name": "Iorveth",
@@ -854,16 +1046,20 @@
     "Faction": "Scoia'tael",
     "Type": "Hero",
     "Combat 1": "Ranged",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "King or beggar, what's the difference? One dh'oine less."
   },
   {
-    "Name": "Isengrim Faolitarna",
+    "Name": "Isengrim Faoiltiarna",
     "Occurrences": 1,
     "Faction": "Scoia'tael",
     "Type": "Hero",
     "Combat 1": "Close",
     "Strength": 10,
-    "Effect 1": "Morale"
+    "Effect 1": "Morale",
+    "Art Styles": 1,
+    "Quote": "It dawns on them once they notice my scar: a realization of imminent death."
   },
   {
     "Name": "John Natalis",
@@ -871,7 +1067,9 @@
     "Faction": "Northern Realms",
     "Type": "Hero",
     "Combat 1": "Close",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "That square should bear the names of my soldiers, of the dead. Not mine."
   },
   {
     "Name": "Kaedweni Siege Expert",
@@ -880,7 +1078,9 @@
     "Type": "Unit",
     "Combat 1": "Siege",
     "Strength": 1,
-    "Effect 1": "Morale"
+    "Effect 1": "Morale",
+    "Art Styles": 3,
+    "Quote": "\"You gotta recalibrate the arm by five degrees.\" \"Do what by the what now?\""
   },
   {
     "Name": "Kambi",
@@ -890,7 +1090,9 @@
     "Combat 1": "Close",
     "Strength": 0,
     "Effect 1": "Avenger",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"When the time comes, the cockerel Kambi shall crow and awaken Hemdall.\""
   },
   {
     "Name": "Kayran",
@@ -899,7 +1101,9 @@
     "Type": "Hero",
     "Combat 1": "Ranged",
     "Strength": 8,
-    "Effect 1": "Morale"
+    "Effect 1": "Morale",
+    "Art Styles": 1,
+    "Quote": "Kill a kayran? Simple. Take your best sword... then sell it and hire a witcher."
   },
   {
     "Name": "Keira Metz",
@@ -907,13 +1111,16 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "If I'm to die today, I wish to look smashing for the occasion."
   },
   {
     "Name": "King Bran",
     "Faction": "Skellige",
     "Type": "Leader",
     "DLC": "Blood and Wine",
+    "Art Styles": 1,
     "Ability": "Units only lose half their Strength in bad weather conditions.",
     "Quote": "No one can replace Bran. Though they're sure to try."
   },
@@ -923,7 +1130,9 @@
     "Faction": "Monsters",
     "Type": "Hero",
     "Combat 1": "Ranged",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "We never hunt in these woods. Not even if it means the whole village starves."
   },
   {
     "Name": "Letho of Gulet",
@@ -931,7 +1140,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Hero",
     "Combat 1": "Close",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "Witchers never die in their beds."
   },
   {
     "Name": "Light Longship",
@@ -941,7 +1152,9 @@
     "Combat 1": "Ranged",
     "Strength": 4,
     "Effect 1": "Muster",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Escape them? In the waters of Skellige? Good luck.\""
   },
   {
     "Name": "Madman Lugos",
@@ -950,7 +1163,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 6,
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"WAAAAAAAAAAGH!!!!\""
   },
   {
     "Name": "Mahakaman Defender",
@@ -958,16 +1173,9 @@
     "Faction": "Scoia'tael",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 5
-  },
-  {
-    "Name": "Manno Coehoom",
-    "Occurrences": 1,
-    "Faction": "Nilfgaardian Empire",
-    "Type": "Hero",
-    "Combat 1": "Close",
-    "Strength": 10,
-    "Effect 1": "Medic"
+    "Strength": 5,
+    "Art Styles": 5,
+    "Quote": "I'm telling ye, we're born fer battle – we slash straight at their knees!"
   },
   {
     "Name": "Mardroeme",
@@ -975,7 +1183,20 @@
     "Faction": "Skellige",
     "Type": "Unit",
     "Effect 1": "Mardroeme",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Eat enough of them, and the world will never be the same…\""
+  },
+  {
+    "Name": "Menno Coehoorn",
+    "Occurrences": 1,
+    "Faction": "Nilfgaardian Empire",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 10,
+    "Effect 1": "Medic",
+    "Art Styles": 1,
+    "Quote": "I'll take an attentive reconnaissance unit over a fine cavalry brigade any day."
   },
   {
     "Name": "Milva",
@@ -984,7 +1205,9 @@
     "Type": "Unit",
     "Combat 1": "Ranged",
     "Strength": 10,
-    "Effect 1": "Morale"
+    "Effect 1": "Morale",
+    "Art Styles": 1,
+    "Quote": "With each arrow I loose, I think of my da. He's be proud. I think."
   },
   {
     "Name": "Morteisen",
@@ -992,7 +1215,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 3
+    "Strength": 3,
+    "Art Styles": 1,
+    "Quote": "No Nordling pikemen or dwarven spearbearers can hope to best trained cavalry."
   },
   {
     "Name": "Morvran Voorhis",
@@ -1000,7 +1225,20 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Hero",
     "Combat 1": "Siege",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "Summer sun reflecting in the quiet waters of the Alba - that's Nilfgaard to me."
+  },
+  {
+    "Name": "Mysterious Elf",
+    "Occurrences": 1,
+    "Faction": "Neutral",
+    "Type": "Hero",
+    "Combat 1": "Close",
+    "Strength": 0,
+    "Effect 1": "Spy",
+    "Art Styles": 2,
+    "Quote": "You humans have...unusual tastes."
   },
   {
     "Name": "Nausicaa Cavalry Rider",
@@ -1008,7 +1246,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 2
+    "Strength": 2,
+    "Art Styles": 1,
+    "Quote": "The Emperor will teach the North discipline."
   },
   {
     "Name": "Nekker",
@@ -1017,7 +1257,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 2,
-    "Effect 1": "Muster"
+    "Effect 1": "Muster",
+    "Art Styles": 3,
+    "Quote": "Damn things are almost cute, if you ignore the whole vicious killer aspect."
   },
   {
     "Name": "Olaf",
@@ -1029,7 +1271,9 @@
     "Strength": 12,
     "Effect 1": "Agile",
     "Effect 2": "Morale",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Many've tried to defeat Olaf. But won't hear about it from them - they're dead.\""
   },
   {
     "Name": "Olgierd Von Everec",
@@ -1041,15 +1285,19 @@
     "Strength": 6,
     "Effect 1": "Agile",
     "Effect 2": "Morale",
-    "DLC": "Hearts of Stone"
+    "DLC": "Hearts of Stone",
+    "Art Styles": 1,
+    "Quote": "At least you know I don't easily lose my head."
   },
   {
-    "Name": "Phillippa Eilhart",
+    "Name": "Philippa Eilhart",
     "Occurrences": 1,
     "Faction": "Northern Realms",
     "Type": "Hero",
     "Combat 1": "Ranged",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "Soon the power of kings will wither, and the Lodge shall seize its rightful place."
   },
   {
     "Name": "Plague Maiden",
@@ -1057,7 +1305,9 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "The sick rave about a boil-pocked woman surrounded by herds of rabid rats…"
   },
   {
     "Name": "Poor Fucking Infantry",
@@ -1066,7 +1316,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 1,
-    "Effect 1": "Bond"
+    "Effect 1": "Bond",
+    "Art Styles": 3,
+    "Quote": "I's a war veteran! ... spare me a crown?"
   },
   {
     "Name": "Prince Stennis",
@@ -1075,7 +1327,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 5,
-    "Effect 1": "Spy"
+    "Effect 1": "Spy",
+    "Art Styles": 1,
+    "Quote": "He ploughin' wears golden armor. Golden. 'Course he's an arsehole."
   },
   {
     "Name": "Puttkammer",
@@ -1083,7 +1337,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 3
+    "Strength": 3,
+    "Art Styles": 1,
+    "Quote": "Learned a lot at Braibant Military Academy. How to scrub potatoes, for instance."
   },
   {
     "Name": "Rainfarn",
@@ -1091,7 +1347,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 4
+    "Strength": 4,
+    "Art Styles": 1,
+    "Quote": "You'll die as painfully as that pathetic traitor Windhalm did."
   },
   {
     "Name": "Redanian Foot Soldier",
@@ -1099,15 +1357,19 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 1
+    "Strength": 1,
+    "Art Styles": 2,
+    "Quote": "I've bled for Redania! I've killed for Redania.. Dammit, I've even raped for Redania!"
   },
   {
-    "Name": "Renauld aep Matsen",
+    "Name": "Renuald aep Matsen",
     "Occurrences": 1,
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "They say the Impera fear nothing. Untrue. Renuald scares them shitless."
   },
   {
     "Name": "Riordain",
@@ -1115,7 +1377,9 @@
     "Faction": "Scoia'tael",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 1
+    "Strength": 1,
+    "Art Styles": 1,
+    "Quote": "Stare into their eyes, feast on their terror. Then go in for the kill."
   },
   {
     "Name": "Roach",
@@ -1124,7 +1388,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 3,
-    "DLC": "Gwent: The Witcher Card Game"
+    "DLC": "Gwent: The Witcher Card Game",
+    "Art Styles": 1,
+    "Quote": "Come on, Roach! Faster!"
   },
   {
     "Name": "Rotten Mangonel",
@@ -1132,7 +1398,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Strength": 3
+    "Strength": 3,
+    "Art Styles": 1,
+    "Quote": "The rotten smell brings back childhood memories"
   },
   {
     "Name": "Sabrina Glevissig",
@@ -1140,7 +1408,9 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 4
+    "Strength": 4,
+    "Art Styles": 1,
+    "Quote": "Daughter of the Kaedweni Wilderness."
   },
   {
     "Name": "Saesenthessis",
@@ -1148,7 +1418,9 @@
     "Faction": "Scoia'tael",
     "Type": "Hero",
     "Combat 1": "Ranged",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "\"Beautiful, pure, fierce - the perfect icon for a rebellion.\""
   },
   {
     "Name": "Schirru",
@@ -1160,14 +1432,18 @@
     "Effect 1": "Scorch",
     "DLC": "Hearts of Stone",
     "Scorch Scope": "Siege",
-    "Scorch Minimum Strength": 10
+    "Scorch Minimum Strength": 10,
+    "Art Styles": 1,
+    "Quote": "\"Time to look death in the face.\""
   },
   {
     "Name": "Scorch",
     "Occurrences": 3,
     "Faction": "Neutral",
     "Type": "Unit",
-    "Effect 1": "Scorch"
+    "Effect 1": "Scorch",
+    "Art Styles": 1,
+    "Quote": "Pillars of flame turn the mightiest to ash. All other tremble in shock and awe."
   },
   {
     "Name": "Sheldon Skaggs",
@@ -1175,16 +1451,20 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 4
+    "Strength": 4,
+    "Art Styles": 1,
+    "Quote": "I was there, on the front lines! Right where the fightin' was thickest!"
   },
   {
-    "Name": "Shilard Fitz-Oesterien",
+    "Name": "Shilard Fitz-Oesterlen",
     "Occurrences": 1,
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 7,
-    "Effect 1": "Spy"
+    "Effect 1": "Spy",
+    "Art Styles": 1,
+    "Quote": "Warfare is mere sound and fury - diplomacy is what truly shapes history."
   },
   {
     "Name": "Siege Engineer",
@@ -1192,7 +1472,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 1,
+    "Quote": "Wielded correctly, a protractor can be a deadly weapon."
   },
   {
     "Name": "Siege Technician",
@@ -1201,7 +1483,9 @@
     "Type": "Unit",
     "Combat 1": "Siege",
     "Strength": 0,
-    "Effect 1": "Medic"
+    "Effect 1": "Medic",
+    "Art Styles": 1,
+    "Quote": "I never miss twice."
   },
   {
     "Name": "Siege Tower",
@@ -1209,7 +1493,9 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 2,
+    "Quote": "\"I love the clamor of siege towers in the morning. Sounds like victory.\""
   },
   {
     "Name": "Siegfried of Denesle",
@@ -1217,16 +1503,20 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "We're on the same side, witcher. You'll realize this one day."
   },
   {
-    "Name": "Sigismund Djikstra",
+    "Name": "Sigismund Dijkstra",
     "Occurrences": 1,
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 4,
-    "Effect 1": "Spy"
+    "Effect 1": "Spy",
+    "Art Styles": 1,
+    "Quote": "Gwent's like politics, just more honest."
   },
   {
     "Name": "Sile de Tansarville",
@@ -1234,7 +1524,9 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 4
+    "Strength": 4,
+    "Art Styles": 1,
+    "Quote": "The Lodge lacks humility. Our lust for power may yet be our undoing."
   },
   {
     "Name": "Skellige Storm",
@@ -1244,7 +1536,9 @@
     "Combat 1": "Ranged",
     "Combat 2": "Siege",
     "Effect 1": "Weather",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "That ain't no normal storm. This here's the wrath of the gods."
   },
   {
     "Name": "Stefan Skellen",
@@ -1253,7 +1547,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 9,
-    "Effect 1": "Spy"
+    "Effect 1": "Spy",
+    "Art Styles": 1,
+    "Quote": "My mark scars the face of our future empress. That is my proudest achievement."
   },
   {
     "Name": "Svanrige",
@@ -1262,7 +1558,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 4,
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"The emperor also thought him an accidental king. At first.\""
   },
   {
     "Name": "Sweers",
@@ -1270,7 +1568,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 2
+    "Strength": 2,
+    "Art Styles": 1,
+    "Quote": "And hands off the girl! Whatever we may be, we're not savages."
   },
   {
     "Name": "Thaler",
@@ -1279,7 +1579,9 @@
     "Type": "Unit",
     "Combat 1": "Siege",
     "Strength": 1,
-    "Effect 1": "Spy"
+    "Effect 1": "Spy",
+    "Art Styles": 1,
+    "Quote": "Fuck off! We aren't all ploughin' philanderers. Some of us have depth…"
   },
   {
     "Name": "Tibor Eggebracht",
@@ -1287,7 +1589,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Hero",
     "Combat 1": "Ranged",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "Albaaaa! Forward!! Alba! Long live the Emperor!"
   },
   {
     "Name": "Toad",
@@ -1299,7 +1603,9 @@
     "Effect 1": "Scorch",
     "DLC": "Hearts of Stone",
     "Scorch Scope": "Ranged",
-    "Scorch Minimum Strength": 10
+    "Scorch Minimum Strength": 10,
+    "Art Styles": 1,
+    "Quote": "Big. Bad. Ugly. Squats in the sewers."
   },
   {
     "Name": "Torrential Rain",
@@ -1307,7 +1613,9 @@
     "Faction": "Neutral",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Effect 1": "Weather"
+    "Effect 1": "Weather",
+    "Art Styles": 1,
+    "Quote": "Even the rain in this land smells like piss."
   },
   {
     "Name": "Toruviel",
@@ -1315,17 +1623,35 @@
     "Faction": "Scoia'tael",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 2
+    "Strength": 2,
+    "Art Styles": 1,
+    "Quote": "I'd gladly kill you from up close, stare in your eyes... But you reek, human."
   },
   {
     "Name": "Transformed Vildkaarl",
     "Occurrences": 1,
+    "Deckable": "No",
     "Faction": "Skellige",
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 14,
     "Effect 1": "Morale",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "Saw them fight once in my life... and once was enough."
+  },
+  {
+    "Name": "Transformed Young Vildkaarl",
+    "Occurrences": 1,
+    "Deckable": "No",
+    "Faction": "Skellige",
+    "Type": "Unit",
+    "Combat 1": "Close",
+    "Strength": 8,
+    "Effect 1": "Bond",
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "Rooaaaar!"
   },
   {
     "Name": "Trebuchet",
@@ -1333,7 +1659,9 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 2,
+    "Quote": "Castle won't batter itself down, now will it? Get them trebuchets rollin'!"
   },
   {
     "Name": "Triss Merigold",
@@ -1341,7 +1669,9 @@
     "Faction": "Neutral",
     "Type": "Hero",
     "Combat 1": "Close",
-    "Strength": 7
+    "Strength": 7,
+    "Art Styles": 2,
+    "Quote": "I can take care of myself. Trust me."
   },
   {
     "Name": "Udalryk",
@@ -1350,7 +1680,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 4,
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Haaaargh! After me, if ye've the bollocks!\""
   },
   {
     "Name": "Vampire: Bruxa",
@@ -1360,7 +1692,9 @@
     "Combat 1": "Close",
     "Strength": 4,
     "Effect 1": "Muster",
-    "Muster Prefix": "Vampire:"
+    "Muster Prefix": "Vampire:",
+    "Art Styles": 1,
+    "Quote": "A vile, bloodthirsty, man-eating hag. Kind of like my mother-in-law."
   },
   {
     "Name": "Vampire: Ekimmara",
@@ -1369,7 +1703,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 4,
-    "Effect 1": "Muster"
+    "Effect 1": "Muster",
+    "Art Styles": 1,
+    "Quote": "Who would think overgrown bats would have a taste for gaudy jewelry?"
   },
   {
     "Name": "Vampire: Fleder",
@@ -1378,7 +1714,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 4,
-    "Effect 1": "Muster"
+    "Effect 1": "Muster",
+    "Art Styles": 1,
+    "Quote": "Higher vampires embrace their victims. Fleders rip them to shreds."
   },
   {
     "Name": "Vampire: Garkain",
@@ -1387,7 +1725,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 4,
-    "Effect 1": "Muster"
+    "Effect 1": "Muster",
+    "Art Styles": 1,
+    "Quote": "Blood-drinkers and corpse eaters so foul their very ugliness paralyses foes."
   },
   {
     "Name": "Vampire: Katakan",
@@ -1396,7 +1736,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 5,
-    "Effect 1": "Muster"
+    "Effect 1": "Muster",
+    "Art Styles": 1,
+    "Quote": "Drinking the blood of the Continent since the Conjunction."
   },
   {
     "Name": "Vanhemar",
@@ -1404,7 +1746,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 4
+    "Strength": 4,
+    "Art Styles": 1,
+    "Quote": "For a fire mage, he's not very... flamboyant."
   },
   {
     "Name": "Vattier de Rideaux",
@@ -1413,7 +1757,9 @@
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 4,
-    "Effect 1": "Spy"
+    "Effect 1": "Spy",
+    "Art Styles": 1,
+    "Quote": "There's never been a problem a well-planned assassination couldn't solve."
   },
   {
     "Name": "Vernon Roche",
@@ -1421,7 +1767,9 @@
     "Faction": "Northern Realms",
     "Type": "Hero",
     "Combat 1": "Close",
-    "Strength": 10
+    "Strength": 10,
+    "Art Styles": 1,
+    "Quote": "A patriot... and a real son of a bitch."
   },
   {
     "Name": "Ves",
@@ -1429,7 +1777,9 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "Better to live one day as a king than a whole life as a beggar."
   },
   {
     "Name": "Vesemir",
@@ -1437,7 +1787,9 @@
     "Faction": "Neutral",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 6
+    "Strength": 6,
+    "Art Styles": 2,
+    "Quote": "If you're to be hanged, ask for water. Anything can happen before they fetch it."
   },
   {
     "Name": "Villentretenmerth",
@@ -1448,7 +1800,9 @@
     "Strength": 7,
     "Effect 1": "Scorch",
     "Scorch Scope": "Close",
-    "Scorch Minimum Strength": 10
+    "Scorch Minimum Strength": 10,
+    "Art Styles": 2,
+    "Quote": "Also calls himself Borkh Three Jackdaws… he's not the best at names."
   },
   {
     "Name": "Vreemde",
@@ -1456,7 +1810,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 2
+    "Strength": 2,
+    "Art Styles": 1,
+    "Quote": "Discipline is the Empire's deadliest weapon."
   },
   {
     "Name": "Vrihedd Brigade Recruit",
@@ -1464,7 +1820,9 @@
     "Faction": "Scoia'tael",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 4
+    "Strength": 4,
+    "Art Styles": 1,
+    "Quote": "\"Hatred burns brighter than any fire, and cuts deeper than any blade.\""
   },
   {
     "Name": "Vrihedd Brigade Veteran",
@@ -1474,7 +1832,9 @@
     "Combat 1": "Close",
     "Combat 2": "Ranged",
     "Strength": 5,
-    "Effect 1": "Agile"
+    "Effect 1": "Agile",
+    "Art Styles": 2,
+    "Quote": "\"Vrihedd? What's that mean?\" \"Trouble.\""
   },
   {
     "Name": "War Longship",
@@ -1484,7 +1844,9 @@
     "Combat 1": "Siege",
     "Strength": 6,
     "Effect 1": "Bond",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"They say Hemdall's heart swells whenever the longships sail out on a raid.\""
   },
   {
     "Name": "Werewolf",
@@ -1492,7 +1854,9 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "Wolves aren't as bad as they say. Werewolves, though – they're worse."
   },
   {
     "Name": "Wyvern",
@@ -1500,7 +1864,9 @@
     "Faction": "Monsters",
     "Type": "Unit",
     "Combat 1": "Ranged",
-    "Strength": 2
+    "Strength": 2,
+    "Art Styles": 1,
+    "Quote": "Imagine a cross between a winged snake and a nightmare. Wyverns are worse."
   },
   {
     "Name": "Yaevinn",
@@ -1510,7 +1876,9 @@
     "Combat 1": "Close",
     "Combat 2": "Ranged",
     "Strength": 6,
-    "Effect 1": "Agile"
+    "Effect 1": "Agile",
+    "Art Styles": 1,
+    "Quote": "We are the drops of rain that together make a ferocious storm."
   },
   {
     "Name": "Yarpen Zigrin",
@@ -1518,16 +1886,20 @@
     "Faction": "Northern Realms",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 2
+    "Strength": 2,
+    "Art Styles": 1,
+    "Quote": "The world belongs to whoever's best at crackin' skulls and impregnatin' lasses."
   },
   {
-    "Name": "Yennefer of Vangerberg",
+    "Name": "Yennefer of Vengerberg",
     "Occurrences": 1,
     "Faction": "Neutral",
     "Type": "Hero",
     "Combat 1": "Ranged",
     "Strength": 7,
-    "Effect 1": "Medic"
+    "Effect 1": "Medic",
+    "Art Styles": 2,
+    "Quote": "Magic is Chaos, Art and Science. It's a curse, a blessing and a progression."
   },
   {
     "Name": "Young Berserker",
@@ -1537,16 +1909,20 @@
     "Combat 1": "Ranged",
     "Strength": 2,
     "Effect 1": "Berserker",
-    "DLC": "Blood and Wine"
+    "DLC": "Blood and Wine",
+    "Art Styles": 1,
+    "Quote": "\"Want some?\""
   },
   {
-    "Name": "Young Emissary",
+    "Name": "Young Emmisary",
     "Occurrences": 2,
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Close",
     "Strength": 5,
-    "Effect 1": "Bond"
+    "Effect 1": "Bond",
+    "Art Styles": 2,
+    "Quote": "If I acquit myself well, perhaps next they'll post me somewhere civilized."
   },
   {
     "Name": "Zerrikanian Fire Scorpion",
@@ -1554,7 +1930,9 @@
     "Faction": "Nilfgaardian Empire",
     "Type": "Unit",
     "Combat 1": "Siege",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 1,
+    "Quote": "The Zerrikania Desert used to be a lush garden. Then these came along."
   },
   {
     "Name": "Zoltan Chivay",
@@ -1562,6 +1940,8 @@
     "Faction": "Neutral",
     "Type": "Unit",
     "Combat 1": "Close",
-    "Strength": 5
+    "Strength": 5,
+    "Art Styles": 2,
+    "Quote": "Life without old mates and booze is like a woman without a rump."
   }
 ]
