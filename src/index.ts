@@ -20,6 +20,9 @@ import env from './env'
     if (!workbook.SheetNames.includes(SHEET_NAMES.Factions)) {
       throw Error(`Spreadsheet "${spreadSheetPath}" does not contain sheet "${SHEET_NAMES.Factions}"`)
     }
+    if (!workbook.SheetNames.includes(SHEET_NAMES.Effects)) {
+      throw Error(`Spreadsheet "${spreadSheetPath}" does not contain sheet "${SHEET_NAMES.Effects}"`)
+    }
     if (!workbook.SheetNames.includes(SHEET_NAMES.Types)) {
       throw Error(`Spreadsheet "${spreadSheetPath}" does not contain sheet "${SHEET_NAMES.Types}"`)
     }
@@ -29,18 +32,13 @@ import env from './env'
     const cardJson = XLSX.utils.sheet_to_json(cardSheet)
     const factionSheet = workbook.Sheets[SHEET_NAMES.Factions]
     const factionJson = XLSX.utils.sheet_to_json(factionSheet)
+    const effectSheet = workbook.Sheets[SHEET_NAMES.Effects]
+    const effectJson = XLSX.utils.sheet_to_json(effectSheet)
 
     // write JSON to file
-    const cardJsonFile = path.join(env.OUTPUT_DIRECTORY, 'cards.json')
-    const factionJsonFile = path.join(env.OUTPUT_DIRECTORY, 'factions.json')
-    if (await fileExists(cardJsonFile)) {
-      await fs.rm(cardJsonFile)
-    }
-    if (await fileExists(factionJsonFile)) {
-      await fs.rm(factionJsonFile)
-    }
-    await fs.writeFile(cardJsonFile, JSON.stringify(cardJson, null, 2))
-    await fs.writeFile(factionJsonFile, JSON.stringify(factionJson, null, 2))
+    await replaceFile(path.join(env.OUTPUT_DIRECTORY, 'cards.json'), cardJson)
+    await replaceFile(path.join(env.OUTPUT_DIRECTORY, 'factions.json'), factionJson)
+    await replaceFile(path.join(env.OUTPUT_DIRECTORY, 'effects.json'), effectJson)
   } catch (err: unknown) {
     console.error(err)
     process.exit(1)
@@ -56,8 +54,17 @@ async function fileExists(path: string): Promise<boolean> {
   return true
 }
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+async function replaceFile(path: string, data: any[]) {
+  if (await fileExists(path)) {
+    await fs.rm(path)
+  }
+  await fs.writeFile(path, JSON.stringify(data, null, 2))
+}
+
 enum SHEET_NAMES {
   Cards = 'Cards',
+  Effects = 'Effects',
   Factions = 'Factions',
   Types = 'Types',
 }
