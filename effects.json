@@ -1,7 +1,7 @@
 [
   {
     "Name": "Agile",
-    "Ability": "Can be placed in either the Combat row. Cannot be moved once placed."
+    "Ability": "Can be placed in either the Close or Ranged rows. Cannot be moved once placed."
   },
   {
     "Name": "Avenger",
