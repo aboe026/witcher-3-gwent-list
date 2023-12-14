@@ -28,7 +28,7 @@
     "Combat 1": "Siege",
     "Strength": 6,
     "Effect 1": "Muster",
-    "Muster Prefix": "Arachas",
+    "Effect Prefix": "Arachas",
     "Art Styles": 1,
     "Quote": "Like a cross between a crab, a spider...and a ploughin' mountain"
   },
@@ -194,7 +194,7 @@
     "Strength": 10,
     "Effect 1": "Muster",
     "DLC": "Blood and Wine",
-    "Muster Prefix": "Clan Drummond Shield Maiden",
+    "Effect Prefix": "Clan Drummond Shield Maiden",
     "Art Styles": 1,
     "Quote": "\"They call me Sparrowhawk, know why? Because I eat rats like you for breakfast.\""
   },
@@ -218,7 +218,7 @@
     "Combat 1": "Close",
     "Strength": 15,
     "Effect 1": "Muster",
-    "Muster Prefix": "Roach",
+    "Effect Prefix": "Roach",
     "Art Styles": 2,
     "Quote": "Know when fairy tales cease to be tales? When people start believing in them."
   },
@@ -328,6 +328,7 @@
     "Strength": 0,
     "Effect 1": "Avenger",
     "DLC": "Hearts of Stone",
+    "Effect Prefix": "Bovine Defense Force",
     "Art Styles": 1,
     "Quote": "Mooo!"
   },
@@ -359,7 +360,7 @@
     "Combat 1": "Close",
     "Strength": 6,
     "Effect 1": "Muster",
-    "Muster Prefix": "Crone",
+    "Effect Prefix": "Crone",
     "Art Styles": 1,
     "Quote": "We'll cut you up, boy. A fine broth you will make."
   },
@@ -371,7 +372,7 @@
     "Combat 1": "Close",
     "Strength": 6,
     "Effect 1": "Muster",
-    "Muster Prefix": "Crone",
+    "Effect Prefix": "Crone",
     "Art Styles": 1,
     "Quote": "I sense your pain. I see your fear…"
   },
@@ -383,7 +384,7 @@
     "Combat 1": "Close",
     "Strength": 6,
     "Effect 1": "Muster",
-    "Muster Prefix": "Crone",
+    "Effect Prefix": "Crone",
     "Art Styles": 1,
     "Quote": "I'd be your best - and last."
   },
@@ -853,7 +854,7 @@
     "Strength": 2,
     "Effect 1": "Muster",
     "DLC": "Hearts of Stone",
-    "Muster Prefix": "Gaunter O'Dimm Darkness",
+    "Effect Prefix": "Gaunter O'Dimm Darkness",
     "Art Styles": 1,
     "Quote": "He always grants exactly what you wish for. That's the problem."
   },
@@ -877,7 +878,7 @@
     "Combat 1": "Close",
     "Strength": 15,
     "Effect 1": "Muster",
-    "Muster Prefix": "Roach",
+    "Effect Prefix": "Roach",
     "Art Styles": 2,
     "Quote": "If that's what it takes to save the world, it's better to let that world die."
   },
@@ -1091,6 +1092,7 @@
     "Strength": 0,
     "Effect 1": "Avenger",
     "DLC": "Blood and Wine",
+    "Effect Prefix": "Hemdall",
     "Art Styles": 1,
     "Quote": "\"When the time comes, the cockerel Kambi shall crow and awaken Hemdall.\""
   },
@@ -1692,7 +1694,7 @@
     "Combat 1": "Close",
     "Strength": 4,
     "Effect 1": "Muster",
-    "Muster Prefix": "Vampire:",
+    "Effect Prefix": "Vampire",
     "Art Styles": 1,
     "Quote": "A vile, bloodthirsty, man-eating hag. Kind of like my mother-in-law."
   },
