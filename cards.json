@@ -1101,9 +1101,11 @@
     "Occurrences": 1,
     "Faction": "Monsters",
     "Type": "Hero",
-    "Combat 1": "Ranged",
+    "Combat 1": "Close",
+    "Combat 2": "Ranged",
     "Strength": 8,
-    "Effect 1": "Morale",
+    "Effect 1": "Agile",
+    "Effect 2": "Morale",
     "Art Styles": 1,
     "Quote": "Kill a kayran? Simple. Take your best sword... then sell it and hire a witcher."
   },
