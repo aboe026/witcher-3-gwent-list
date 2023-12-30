@@ -1708,6 +1708,7 @@
     "Combat 1": "Close",
     "Strength": 4,
     "Effect 1": "Muster",
+    "Effect Prefix": "Vampire",
     "Art Styles": 1,
     "Quote": "Who would think overgrown bats would have a taste for gaudy jewelry?"
   },
@@ -1719,6 +1720,7 @@
     "Combat 1": "Close",
     "Strength": 4,
     "Effect 1": "Muster",
+    "Effect Prefix": "Vampire",
     "Art Styles": 1,
     "Quote": "Higher vampires embrace their victims. Fleders rip them to shreds."
   },
@@ -1730,6 +1732,7 @@
     "Combat 1": "Close",
     "Strength": 4,
     "Effect 1": "Muster",
+    "Effect Prefix": "Vampire",
     "Art Styles": 1,
     "Quote": "Blood-drinkers and corpse eaters so foul their very ugliness paralyses foes."
   },
@@ -1741,6 +1744,7 @@
     "Combat 1": "Close",
     "Strength": 5,
     "Effect 1": "Muster",
+    "Effect Prefix": "Vampire",
     "Art Styles": 1,
     "Quote": "Drinking the blood of the Continent since the Conjunction."
   },
