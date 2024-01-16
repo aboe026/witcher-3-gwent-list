@@ -960,6 +960,7 @@
   {
     "Name": "Hemdall",
     "Occurrences": 1,
+    "Deckable": "No",
     "Faction": "Skellige",
     "Type": "Hero",
     "Combat 1": "Close",
