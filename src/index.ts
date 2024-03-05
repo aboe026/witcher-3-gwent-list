@@ -11,34 +11,33 @@ import env from './env'
     if (!(await fileExists(spreadSheetPath))) {
       throw Error(`Gwent card spreadsheet "${spreadSheetPath}" does not exist or is not accessible.`)
     }
+    if (!(await pathExists(env.OUTPUT_DIRECTORY))) {
+      await fs.mkdir(env.OUTPUT_DIRECTORY)
+    }
 
     // verify spreadsheet
     const workbook = await XLSX.readFile(spreadSheetPath)
-    if (!workbook.SheetNames.includes(SHEET_NAMES.Cards)) {
-      throw Error(`Spreadsheet "${spreadSheetPath}" does not contain sheet "${SHEET_NAMES.Cards}"`)
-    }
-    if (!workbook.SheetNames.includes(SHEET_NAMES.Factions)) {
-      throw Error(`Spreadsheet "${spreadSheetPath}" does not contain sheet "${SHEET_NAMES.Factions}"`)
-    }
-    if (!workbook.SheetNames.includes(SHEET_NAMES.Effects)) {
-      throw Error(`Spreadsheet "${spreadSheetPath}" does not contain sheet "${SHEET_NAMES.Effects}"`)
-    }
-    if (!workbook.SheetNames.includes(SHEET_NAMES.Types)) {
-      throw Error(`Spreadsheet "${spreadSheetPath}" does not contain sheet "${SHEET_NAMES.Types}"`)
+    for (const sheetName in SHEET_NAMES) {
+      if (!workbook.SheetNames.includes(sheetName)) {
+        throw Error(`Spreadsheet "${spreadSheetPath}" does not contain sheet "${sheetName}"`)
+      }
     }
 
     // convert XSLX to JSON
-    const cardSheet = workbook.Sheets[SHEET_NAMES.Cards]
-    const cardJson = XLSX.utils.sheet_to_json(cardSheet)
-    const factionSheet = workbook.Sheets[SHEET_NAMES.Factions]
-    const factionJson = XLSX.utils.sheet_to_json(factionSheet)
-    const effectSheet = workbook.Sheets[SHEET_NAMES.Effects]
-    const effectJson = XLSX.utils.sheet_to_json(effectSheet)
+    const unitsSheet = workbook.Sheets[SHEET_NAMES.Units]
+    const unitsJson = XLSX.utils.sheet_to_json(unitsSheet)
+    const leadersSheet = workbook.Sheets[SHEET_NAMES.Leaders]
+    const leadersJson = XLSX.utils.sheet_to_json(leadersSheet)
+    const factionsSheet = workbook.Sheets[SHEET_NAMES.Factions]
+    const factionsJson = XLSX.utils.sheet_to_json(factionsSheet)
+    const effectsSheet = workbook.Sheets[SHEET_NAMES.Effects]
+    const effectsJson = XLSX.utils.sheet_to_json(effectsSheet)
 
     // write JSON to file
-    await replaceFile(path.join(env.OUTPUT_DIRECTORY, 'cards.json'), cardJson)
-    await replaceFile(path.join(env.OUTPUT_DIRECTORY, 'factions.json'), factionJson)
-    await replaceFile(path.join(env.OUTPUT_DIRECTORY, 'effects.json'), effectJson)
+    await replaceFile(path.join(env.OUTPUT_DIRECTORY, 'units.json'), unitsJson)
+    await replaceFile(path.join(env.OUTPUT_DIRECTORY, 'leaders.json'), leadersJson)
+    await replaceFile(path.join(env.OUTPUT_DIRECTORY, 'factions.json'), factionsJson)
+    await replaceFile(path.join(env.OUTPUT_DIRECTORY, 'effects.json'), effectsJson)
   } catch (err: unknown) {
     console.error(err)
     process.exit(1)
@@ -62,8 +61,18 @@ async function replaceFile(path: string, data: any[]) {
   await fs.writeFile(path, JSON.stringify(data, null, 2))
 }
 
+async function pathExists(path: string): Promise<boolean> {
+  try {
+    await fs.access(path)
+    return true
+  } catch (err: unknown) {
+    return false
+  }
+}
+
 enum SHEET_NAMES {
-  Cards = 'Cards',
+  Units = 'Units',
+  Leaders = 'Leaders',
   Effects = 'Effects',
   Factions = 'Factions',
   Types = 'Types',

@@ -10,6 +10,7 @@
     "~$cards.xlsx",
     "cards.json",
     "node_modules",
+    "output",
     "tsconfig.tsbuildinfo"
   ],
   "parser": "@typescript-eslint/parser",
